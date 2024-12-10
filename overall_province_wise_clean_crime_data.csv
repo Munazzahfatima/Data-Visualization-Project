@@ -1,0 +1,148 @@
+year,Crime Type,district,Total Crime
+2018,Murder,Punjab,4017
+2018,Attempt to Murder,Punjab,5093
+2018,Kidnapping /Abduction,Punjab,14981
+2018,Dacocity,Punjab,793
+2018,Robbery,Punjab,11128
+2018,Burglary,Punjab,11425
+2018,Cattle Theft,Punjab,5569
+2019,Murder,Punjab,3931
+2019,Attempt to Murder,Punjab,5446
+2019,Kidnapping /Abduction,Punjab,15188
+2019,Dacocity,Punjab,786
+2019,Robbery,Punjab,14236
+2019,Burglary,Punjab,12680
+2019,Cattle Theft,Punjab,7060
+2020,Murder,Punjab,4127
+2020,Attempt to Murder,Punjab,6195
+2020,Kidnapping /Abduction,Punjab,14593
+2020,Dacocity,Punjab,652
+2020,Robbery,Punjab,14489
+2020,Burglary,Punjab,12817
+2020,Cattle Theft,Punjab,7933
+2018,Murder,Sindh,1308
+2018,Attempt to Murder,Sindh,1590
+2018,Kidnapping /Abduction,Sindh,3167
+2018,Dacocity,Sindh,509
+2018,Robbery,Sindh,2959
+2018,Burglary,Sindh,1560
+2018,Cattle Theft,Sindh,352
+2019,Murder,Sindh,1312
+2019,Attempt to Murder,Sindh,1624
+2019,Kidnapping /Abduction,Sindh,3111
+2019,Dacocity,Sindh,502
+2019,Robbery,Sindh,3085
+2019,Burglary,Sindh,1772
+2019,Cattle Theft,Sindh,415
+2020,Murder,Sindh,1350
+2020,Attempt to Murder,Sindh,1820
+2020,Kidnapping /Abduction,Sindh,3308
+2020,Dacocity,Sindh,573
+2020,Robbery,Sindh,4584
+2020,Burglary,Sindh,2122
+2020,Cattle Theft,Sindh,420
+2018,Murder,KPK,2320
+2018,Attempt to Murder,KPK,2628
+2018,Kidnapping /Abduction,KPK,1188
+2018,Dacocity,KPK,39
+2018,Robbery,KPK,271
+2018,Burglary,KPK,823
+2018,Cattle Theft,KPK,155
+2019,Murder,KPK,2334
+2019,Attempt to Murder,KPK,2543
+2019,Kidnapping /Abduction,KPK,1126
+2019,Dacocity,KPK,40
+2019,Robbery,KPK,353
+2019,Burglary,KPK,763
+2019,Cattle Theft,KPK,156
+2020,Murder,KPK,2384
+2020,Attempt to Murder,KPK,2910
+2020,Kidnapping /Abduction,KPK,952
+2020,Dacocity,KPK,34
+2020,Robbery,KPK,264
+2020,Burglary,KPK,727
+2020,Cattle Theft,KPK,141
+2018,Murder,Balochistan,352
+2018,Attempt to Murder,Balochistan,348
+2018,Kidnapping /Abduction,Balochistan,269
+2018,Dacocity,Balochistan,28
+2018,Robbery,Balochistan,151
+2018,Burglary,Balochistan,158
+2018,Cattle Theft,Balochistan,58
+2019,Murder,Balochistan,340
+2019,Attempt to Murder,Balochistan,343
+2019,Kidnapping /Abduction,Balochistan,333
+2019,Dacocity,Balochistan,27
+2019,Robbery,Balochistan,151
+2019,Burglary,Balochistan,219
+2019,Cattle Theft,Balochistan,47
+2020,Murder,Balochistan,369
+2020,Attempt to Murder,Balochistan,375
+2020,Kidnapping /Abduction,Balochistan,346
+2020,Dacocity,Balochistan,43
+2020,Robbery,Balochistan,173
+2020,Burglary,Balochistan,258
+2020,Cattle Theft,Balochistan,54
+2018,Murder,Islamabad,103
+2018,Attempt to Murder,Islamabad,171
+2018,Kidnapping /Abduction,Islamabad,123
+2018,Dacocity,Islamabad,39
+2018,Robbery,Islamabad,351
+2018,Burglary,Islamabad,373
+2018,Cattle Theft,Islamabad,32
+2019,Murder,Islamabad,89
+2019,Attempt to Murder,Islamabad,203
+2019,Kidnapping /Abduction,Islamabad,176
+2019,Dacocity,Islamabad,20
+2019,Robbery,Islamabad,356
+2019,Burglary,Islamabad,297
+2019,Cattle Theft,Islamabad,55
+2020,Murder,Islamabad,118
+2020,Attempt to Murder,Islamabad,218
+2020,Kidnapping /Abduction,Islamabad,175
+2020,Dacocity,Islamabad,12
+2020,Robbery,Islamabad,319
+2020,Burglary,Islamabad,213
+2020,Cattle Theft,Islamabad,37
+2018,Murder,Railways,2
+2018,Attempt to Murder,Railways,1
+2018,Kidnapping /Abduction,Railways,3
+2018,Dacocity,Railways,0
+2018,Robbery,Railways,3
+2018,Burglary,Railways,0
+2018,Cattle Theft,Railways,0
+2019,Murder,Railways,8
+2019,Attempt to Murder,Railways,5
+2019,Kidnapping /Abduction,Railways,3
+2019,Dacocity,Railways,2
+2019,Robbery,Railways,8
+2019,Burglary,Railways,0
+2019,Cattle Theft,Railways,1
+2020,Murder,Railways,2
+2020,Attempt to Murder,Railways,4
+2020,Kidnapping /Abduction,Railways,1
+2020,Dacocity,Railways,0
+2020,Robbery,Railways,2
+2020,Burglary,Railways,1
+2020,Cattle Theft,Railways,2
+2018,Murder,G.B,76
+2018,Attempt to Murder,G.B,89
+2018,Kidnapping /Abduction,G.B,38
+2018,Dacocity,G.B,2
+2018,Robbery,G.B,12
+2018,Burglary,G.B,110
+2018,Cattle Theft,G.B,33
+2019,Murder,G.B,67
+2019,Attempt to Murder,G.B,94
+2019,Kidnapping /Abduction,G.B,54
+2019,Dacocity,G.B,2
+2019,Robbery,G.B,12
+2019,Burglary,G.B,139
+2019,Cattle Theft,G.B,24
+2020,Murder,G.B,71
+2020,Attempt to Murder,G.B,86
+2020,Kidnapping /Abduction,G.B,38
+2020,Dacocity,G.B,5
+2020,Robbery,G.B,23
+2020,Burglary,G.B,113
+2020,Cattle Theft,G.B,34

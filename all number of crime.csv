@@ -1,0 +1,78 @@
+year,Crime Type,Crime Count,district
+2010,Murder,13208,unknown
+2011,Murder,13860,unknown
+2012,Murder,13846,unknown
+2013,Murder,13937,unknown
+2014,Murder,13276,unknown
+2015,Murder,9486,unknown
+2016,Murder,8516,unknown
+2017,Murder,8235,unknown
+2018,Murder,8241,unknown
+2019,Murder,8153,unknown
+2020,Murder,8495,unknown
+2010,Attempt to Murder,15478,unknown
+2011,Attempt to Murder,15496,unknown
+2012,Attempt to Murder,15338,unknown
+2013,Attempt to Murder,14648,unknown
+2014,Attempt to Murder,14499,unknown
+2015,Attempt to Murder,11336,unknown
+2016,Attempt to Murder,10279,unknown
+2017,Attempt to Murder,9499,unknown
+2018,Attempt to Murder,10067,unknown
+2019,Attempt to Murder,10438,unknown
+2020,Attempt to Murder,11797,unknown
+2010,Kidnapping/ Abduction,18556,unknown
+2011,Kidnapping/ Abduction,19806,unknown
+2012,Kidnapping/ Abduction,20194,unknown
+2013,Kidnapping/ Abduction,19472,unknown
+2014,Kidnapping/ Abduction,18700,unknown
+2015,Kidnapping/ Abduction,17922,unknown
+2016,Kidnapping/ Abduction,18057,unknown
+2017,Kidnapping/ Abduction,18363,unknown
+2018,Kidnapping/ Abduction,20060,unknown
+2019,Kidnapping/ Abduction,20256,unknown
+2020,Kidnapping/ Abduction,19658,unknown
+2010,Dacoity,4727,unknown
+2011,Dacoity,4989,unknown
+2012,Dacoity,4259,unknown
+2013,Dacoity,4053,unknown
+2014,Dacoity,3516,unknown
+2015,Dacoity,2329,unknown
+2016,Dacoity,1636,unknown
+2017,Dacoity,1285,unknown
+2018,Dacoity,1414,unknown
+2019,Dacoity,1382,unknown
+2020,Dacoity,1325,unknown
+2010,Robbery,21907,unknown
+2011,Robbery,20632,unknown
+2012,Robbery,17081,unknown
+2013,Robbery,17363,unknown
+2014,Robbery,18107,unknown
+2015,Robbery,15164,unknown
+2016,Robbery,13088,unknown
+2017,Robbery,12458,unknown
+2018,Robbery,14914,unknown
+2019,Robbery,18239,unknown
+2020,Robbery,19904,unknown
+2010,Burglary,16638,unknown
+2011,Burglary,18195,unknown
+2012,Burglary,17638,unknown
+2013,Burglary,17053,unknown
+2014,Burglary,17153,unknown
+2015,Burglary,15878,unknown
+2016,Burglary,14572,unknown
+2017,Burglary,13833,unknown
+2018,Burglary,14646,unknown
+2019,Burglary,16124,unknown
+2020,Burglary,16474,unknown
+2010,Cattle Theft,8373,unknown
+2011,Cattle Theft,9345,unknown
+2012,Cattle Theft,9046,unknown
+2013,Cattle Theft,7743,unknown
+2014,Cattle Theft,7459,unknown
+2015,Cattle Theft,6502,unknown
+2016,Cattle Theft,6068,unknown
+2017,Cattle Theft,5342,unknown
+2018,Cattle Theft,6233,unknown
+2019,Cattle Theft,7793,unknown
+2020,Cattle Theft,8649,unknown

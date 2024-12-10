@@ -1,0 +1,1793 @@
+year,district,Crime Type,Total Crime
+2008,Bahawalpur Div.,burglaries,1353
+2008,Bahawalnagar,burglaries,299
+2008,Bahawalpur,burglaries,546
+2008,Rahim Yar Khan,burglaries,508
+2008,D.G.Khan Division,burglaries,839
+2008,D.G.Khan,burglaries,124
+2008,Layyah,burglaries,157
+2008,Muzaffargarh,burglaries,389
+2008,Rajanpur,burglaries,169
+2008,Faisalabad Div.,burglaries,1188
+2008,Faisalabad,burglaries,771
+2008,Chiniot,burglaries,
+2008,Jhang,burglaries,304
+2008,T.T.Singh,burglaries,113
+2008,Gujranwala Div.,burglaries,1063
+2008,Gujranwala,burglaries,391
+2008,Gujrat,burglaries,183
+2008,Hafizabad,burglaries,92
+2008,Mandi Baha-ud-Din,burglaries,123
+2008,Narowal,burglaries,59
+2008,Sialkot,burglaries,215
+2008,Lahore Division,burglaries,3111
+2008,Kasur,burglaries,221
+2008,Lahore,burglaries,2538
+2008,Nankana Sahib,burglaries,119
+2008,Sheikhupura,burglaries,233
+2008,Multan Division,burglaries,1316
+2008,Khanewal,burglaries,256
+2008,Lodhran,burglaries,136
+2008,Multan,burglaries,673
+2008,Vehari,burglaries,251
+2008,Rawalpindi Div.,burglaries,844
+2008,Attock,burglaries,82
+2008,Chakwal,burglaries,120
+2008,Jhelum,burglaries,85
+2008,Rawalpindi,burglaries,557
+2008,Sahiwal Division,burglaries,721
+2008,Sahiwal,burglaries,209
+2008,Okara,burglaries,326
+2008,Pakpattan,burglaries,186
+2008,Sargodha Div.,burglaries,781
+2008,Bhakkar,burglaries,147
+2008,Khushab,burglaries,99
+2008,Mianwali,burglaries,128
+2008,Sargodha,burglaries,407
+2009,Bahawalpur Div.,burglaries,1354
+2009,Bahawalnagar,burglaries,360
+2009,Bahawalpur,burglaries,523
+2009,Rahim Yar Khan,burglaries,471
+2009,D.G.Khan Division,burglaries,953
+2009,D.G.Khan,burglaries,159
+2009,Layyah,burglaries,135
+2009,Muzaffargarh,burglaries,435
+2009,Rajanpur,burglaries,224
+2009,Faisalabad Div.,burglaries,1391
+2009,Faisalabad,burglaries,874
+2009,Chiniot,burglaries,176
+2009,Jhang,burglaries,205
+2009,T.T.Singh,burglaries,136
+2009,Gujranwala Div.,burglaries,984
+2009,Gujranwala,burglaries,366
+2009,Gujrat,burglaries,177
+2009,Hafizabad,burglaries,86
+2009,Mandi Baha-ud-Din,burglaries,97
+2009,Narowal,burglaries,54
+2009,Sialkot,burglaries,204
+2009,Lahore Division,burglaries,3093
+2009,Kasur,burglaries,195
+2009,Lahore,burglaries,2499
+2009,Nankana Sahib,burglaries,90
+2009,Sheikhupura,burglaries,309
+2009,Multan Division,burglaries,1390
+2009,Khanewal,burglaries,259
+2009,Lodhran,burglaries,151
+2009,Multan,burglaries,719
+2009,Vehari,burglaries,261
+2009,Rawalpindi Div.,burglaries,919
+2009,Attock,burglaries,97
+2009,Chakwal,burglaries,135
+2009,Jhelum,burglaries,86
+2009,Rawalpindi,burglaries,601
+2009,Sahiwal Division,burglaries,686
+2009,Sahiwal,burglaries,221
+2009,Okara,burglaries,257
+2009,Pakpattan,burglaries,208
+2009,Sargodha Div.,burglaries,791
+2009,Bhakkar,burglaries,144
+2009,Khushab,burglaries,92
+2009,Mianwali,burglaries,89
+2009,Sargodha,burglaries,466
+2010,PUNJAB,burglaries,12683
+2010,Bahawalpur Div.,burglaries,1522
+2010,Bahawalnagar,burglaries,339
+2010,Bahawalpur,burglaries,628
+2010,Rahim Yar Khan,burglaries,555
+2010,D.G.Khan Division,burglaries,996
+2010,D.G.Khan,burglaries,160
+2010,Layyah,burglaries,128
+2010,Muzaffargarh,burglaries,481
+2010,Rajanpur,burglaries,227
+2010,Faisalabad Div.,burglaries,1698
+2010,Faisalabad,burglaries,956
+2010,Chiniot,burglaries,293
+2010,Jhang,burglaries,300
+2010,T.T.Singh,burglaries,149
+2010,Gujranwala Div.,burglaries,1223
+2010,Gujranwala,burglaries,585
+2010,Gujrat,burglaries,137
+2010,Hafizabad,burglaries,86
+2010,Mandi Baha-ud-Din,burglaries,88
+2010,Narowal,burglaries,53
+2010,Sialkot,burglaries,274
+2010,Lahore Division,burglaries,3332
+2010,Kasur,burglaries,181
+2010,Lahore,burglaries,3021
+2010,Nankana Sahib,burglaries,124
+2010,Sheikhupura,burglaries,6
+2010,Multan Division,burglaries,1485
+2010,Khanewal,burglaries,254
+2010,Lodhran,burglaries,139
+2010,Multan,burglaries,843
+2010,Vehari,burglaries,249
+2010,Rawalpindi Div.,burglaries,1001
+2010,Attock,burglaries,141
+2010,Chakwal,burglaries,156
+2010,Jhelum,burglaries,87
+2010,Rawalpindi,burglaries,617
+2010,Sahiwal Division,burglaries,597
+2010,Sahiwal,burglaries,178
+2010,Okara,burglaries,255
+2010,Pakpattan,burglaries,164
+2010,Sargodha Div.,burglaries,829
+2010,Bhakkar,burglaries,190
+2010,Khushab,burglaries,75
+2010,Mianwali,burglaries,117
+2010,Sargodha,burglaries,447
+2011,PUNJAB,burglaries,14991
+2011,Bahawalpur Div.,burglaries,1652
+2011,Bahawalnagar,burglaries,281
+2011,Bahawalpur,burglaries,712
+2011,Rahim Yar Khan,burglaries,659
+2011,D.G.Khan Division,burglaries,1056
+2011,D.G.Khan,burglaries,205
+2011,Layyah,burglaries,130
+2011,Muzaffargarh,burglaries,492
+2011,Rajanpur,burglaries,229
+2011,Faisalabad Div.,burglaries,1966
+2011,Faisalabad,burglaries,1146
+2011,Chiniot,burglaries,304
+2011,Jhang,burglaries,228
+2011,T.T.Singh,burglaries,288
+2011,Gujranwala Div.,burglaries,1565
+2011,Gujranwala,burglaries,773
+2011,Gujrat,burglaries,206
+2011,Hafizabad,burglaries,108
+2011,Mandi Baha-ud-Din,burglaries,112
+2011,Narowal,burglaries,54
+2011,Sialkot,burglaries,312
+2011,Lahore Division,burglaries,4495
+2011,Kasur,burglaries,237
+2011,Lahore,burglaries,3661
+2011,Nankana Sahib,burglaries,120
+2011,Sheikhupura,burglaries,477
+2011,Multan Division,burglaries,1416
+2011,Khanewal,burglaries,312
+2011,Lodhran,burglaries,113
+2011,Multan,burglaries,751
+2011,Vehari,burglaries,240
+2011,Rawalpindi Div.,burglaries,917
+2011,Attock,burglaries,126
+2011,Chakwal,burglaries,132
+2011,Jhelum,burglaries,82
+2011,Rawalpindi,burglaries,577
+2011,Sahiwal Division,burglaries,1082
+2011,Sahiwal,burglaries,275
+2011,Okara,burglaries,558
+2011,Pakpattan,burglaries,249
+2011,Sargodha Div.,burglaries,842
+2011,Bhakkar,burglaries,201
+2011,Khushab,burglaries,66
+2011,Mianwali,burglaries,127
+2011,Sargodha,burglaries,448
+2012,PUNJAB,burglaries,14686
+2012,Bahawalpur Div.,burglaries,1539
+2012,Bahawalnagar,burglaries,263
+2012,Bahawalpur,burglaries,628
+2012,Rahim Yar Khan,burglaries,648
+2012,D.G.Khan Division,burglaries,967
+2012,D.G.Khan,burglaries,153
+2012,Layyah,burglaries,123
+2012,Muzaffargarh,burglaries,445
+2012,Rajanpur,burglaries,246
+2012,Faisalabad Div.,burglaries,1382
+2012,Faisalabad,burglaries,701
+2012,Chiniot,burglaries,263
+2012,Jhang,burglaries,177
+2012,T.T.Singh,burglaries,241
+2012,Gujranwala Div.,burglaries,1417
+2012,Gujranwala,burglaries,637
+2012,Gujrat,burglaries,234
+2012,Hafizabad,burglaries,108
+2012,Mandi Baha-ud-Din,burglaries,117
+2012,Narowal,burglaries,81
+2012,Sialkot,burglaries,240
+2012,Lahore Division,burglaries,5036
+2012,Kasur,burglaries,230
+2012,Lahore,burglaries,4324
+2012,Nankana Sahib,burglaries,114
+2012,Sheikhupura,burglaries,368
+2012,Multan Division,burglaries,1343
+2012,Khanewal,burglaries,329
+2012,Lodhran,burglaries,114
+2012,Multan,burglaries,712
+2012,Vehari,burglaries,188
+2012,Rawalpindi Div.,burglaries,850
+2012,Attock,burglaries,119
+2012,Chakwal,burglaries,79
+2012,Jhelum,burglaries,88
+2012,Rawalpindi,burglaries,564
+2012,Sahiwal Division,burglaries,1342
+2012,Sahiwal,burglaries,368
+2012,Okara,burglaries,677
+2012,Pakpattan,burglaries,297
+2012,Sargodha Div.,burglaries,810
+2012,Bhakkar,burglaries,180
+2012,Khushab,burglaries,61
+2012,Mianwali,burglaries,96
+2012,Sargodha,burglaries,473
+2013,PUNJAB,burglaries,13928
+2013,Bahawalpur Div.,burglaries,1325
+2013,Bahawalnagar,burglaries,254
+2013,Bahawalpur,burglaries,469
+2013,Rahim Yar Khan,burglaries,602
+2013,D.G.Khan Division,burglaries,962
+2013,D.G.Khan,burglaries,169
+2013,Layyah,burglaries,77
+2013,Muzaffargarh,burglaries,442
+2013,Rajanpur,burglaries,274
+2013,Faisalabad Div.,burglaries,1526
+2013,Faisalabad,burglaries,776
+2013,Chiniot,burglaries,250
+2013,Jhang,burglaries,250
+2013,T.T.Singh,burglaries,250
+2013,Gujranwala Div.,burglaries,1211
+2013,Gujranwala,burglaries,506
+2013,Gujrat,burglaries,194
+2013,Hafizabad,burglaries,95
+2013,Mandi Baha-ud-Din,burglaries,111
+2013,Narowal,burglaries,59
+2013,Sialkot,burglaries,246
+2013,Lahore Division,burglaries,4807
+2013,Kasur,burglaries,229
+2013,Lahore,burglaries,4100
+2013,Nankana Sahib,burglaries,113
+2013,Sheikhupura,burglaries,365
+2013,Multan Division,burglaries,1465
+2013,Khanewal,burglaries,341
+2013,Lodhran,burglaries,124
+2013,Multan,burglaries,756
+2013,Vehari,burglaries,244
+2013,Rawalpindi Div.,burglaries,789
+2013,Attock,burglaries,84
+2013,Chakwal,burglaries,95
+2013,Jhelum,burglaries,101
+2013,Rawalpindi,burglaries,509
+2013,Sahiwal Division,burglaries,1205
+2013,Sahiwal,burglaries,364
+2013,Okara,burglaries,599
+2013,Pakpattan,burglaries,242
+2013,Sargodha Div.,burglaries,638
+2013,Bhakkar,burglaries,118
+2013,Khushab,burglaries,55
+2013,Mianwali,burglaries,86
+2013,Sargodha,burglaries,379
+2014,PUNJAB,burglaries,14247
+2014,Bahawalpur Div.,burglaries,1162
+2014,Bahawalnagar,burglaries,261
+2014,Bahawalpur,burglaries,335
+2014,Rahim Yar Khan,burglaries,566
+2014,D.G.Khan Division,burglaries,835
+2014,D.G.Khan,burglaries,162
+2014,Layyah,burglaries,81
+2014,Muzaffargarh,burglaries,332
+2014,Rajanpur,burglaries,260
+2014,Faisalabad Div.,burglaries,1398
+2014,Faisalabad,burglaries,714
+2014,Chiniot,burglaries,268
+2014,Jhang,burglaries,186
+2014,T.T.Singh,burglaries,230
+2014,Gujranwala Div.,burglaries,1308
+2014,Gujranwala,burglaries,538
+2014,Gujrat,burglaries,222
+2014,Hafizabad,burglaries,137
+2014,Mandi Baha-ud-Din,burglaries,126
+2014,Narowal,burglaries,55
+2014,Sialkot,burglaries,230
+2014,Lahore Division,burglaries,5285
+2014,Kasur,burglaries,187
+2014,Lahore,burglaries,4601
+2014,Nankana Sahib,burglaries,92
+2014,Sheikhupura,burglaries,405
+2014,Multan Division,burglaries,1535
+2014,Khanewal,burglaries,276
+2014,Lodhran,burglaries,112
+2014,Multan,burglaries,814
+2014,Vehari,burglaries,333
+2014,Rawalpindi Div.,burglaries,878
+2014,Attock,burglaries,95
+2014,Chakwal,burglaries,131
+2014,Jhelum,burglaries,100
+2014,Rawalpindi,burglaries,552
+2014,Sahiwal Division,burglaries,1188
+2014,Sahiwal,burglaries,398
+2014,Okara,burglaries,578
+2014,Pakpattan,burglaries,212
+2014,Sargodha Div.,burglaries,658
+2014,Bhakkar,burglaries,114
+2014,Khushab,burglaries,57
+2014,Mianwali,burglaries,66
+2014,Sargodha,burglaries,421
+2015,PUNJAB,burglaries,12727
+2015,Bahawalpur Div.,burglaries,906
+2015,Bahawalnagar,burglaries,224
+2015,Bahawalpur,burglaries,283
+2015,Rahim Yar Khan,burglaries,399
+2015,D.G.Khan Division,burglaries,590
+2015,D.G.Khan,burglaries,152
+2015,Layyah,burglaries,64
+2015,Muzaffargarh,burglaries,217
+2015,Rajanpur,burglaries,157
+2015,Faisalabad Div.,burglaries,1193
+2015,Faisalabad,burglaries,598
+2015,Chiniot,burglaries,222
+2015,Jhang,burglaries,187
+2015,T.T.Singh,burglaries,186
+2015,Gujranwala Div.,burglaries,1222
+2015,Gujranwala,burglaries,380
+2015,Gujrat,burglaries,181
+2015,Hafizabad,burglaries,91
+2015,Mandi Baha-ud-Din,burglaries,155
+2015,Narowal,burglaries,46
+2015,Sialkot,burglaries,369
+2015,Lahore Division,burglaries,5346
+2015,Kasur,burglaries,173
+2015,Lahore,burglaries,4619
+2015,Nankana Sahib,burglaries,91
+2015,Sheikhupura,burglaries,463
+2015,Multan Division,burglaries,1206
+2015,Khanewal,burglaries,107
+2015,Lodhran,burglaries,93
+2015,Multan,burglaries,714
+2015,Vehari,burglaries,292
+2015,Rawalpindi Div.,burglaries,758
+2015,Attock,burglaries,55
+2015,Chakwal,burglaries,105
+2015,Jhelum,burglaries,64
+2015,Rawalpindi,burglaries,534
+2015,Sahiwal Division,burglaries,889
+2015,Sahiwal,burglaries,318
+2015,Okara,burglaries,391
+2015,Pakpattan,burglaries,180
+2015,Sargodha Div.,burglaries,617
+2015,Bhakkar,burglaries,99
+2015,Khushab,burglaries,83
+2015,Mianwali,burglaries,68
+2015,Sargodha,burglaries,367
+2016,PUNJAB,burglaries,11627
+2016,Bahawalpur Div.,burglaries,794
+2016,Bahawalnagar,burglaries,172
+2016,Bahawalpur,burglaries,269
+2016,Rahim Yar Khan,burglaries,353
+2016,D.G.Khan Division,burglaries,495
+2016,D.G.Khan,burglaries,104
+2016,Layyah,burglaries,56
+2016,Muzaffargarh,burglaries,221
+2016,Rajanpur,burglaries,114
+2016,Faisalabad Div.,burglaries,973
+2016,Faisalabad,burglaries,486
+2016,Chiniot,burglaries,180
+2016,Jhang,burglaries,145
+2016,T.T.Singh,burglaries,162
+2016,Gujranwala Div.,burglaries,1041
+2016,Gujranwala,burglaries,332
+2016,Gujrat,burglaries,123
+2016,Hafizabad,burglaries,117
+2016,Mandi Baha-ud-Din,burglaries,154
+2016,Narowal,burglaries,25
+2016,Sialkot,burglaries,290
+2016,Lahore Division,burglaries,5245
+2016,Kasur,burglaries,141
+2016,Lahore,burglaries,4627
+2016,Nankana Sahib,burglaries,90
+2016,Sheikhupura,burglaries,387
+2016,Multan Division,burglaries,1165
+2016,Khanewal,burglaries,135
+2016,Lodhran,burglaries,90
+2016,Multan,burglaries,688
+2016,Vehari,burglaries,252
+2016,Rawalpindi Div.,burglaries,603
+2016,Attock,burglaries,56
+2016,Chakwal,burglaries,65
+2016,Jhelum,burglaries,44
+2016,Rawalpindi,burglaries,438
+2016,Sahiwal Division,burglaries,803
+2016,Sahiwal,burglaries,247
+2016,Okara,burglaries,381
+2016,Pakpattan,burglaries,175
+2016,Sargodha Div.,burglaries,508
+2016,Bhakkar,burglaries,64
+2016,Khushab,burglaries,50
+2016,Mianwali,burglaries,54
+2016,Sargodha,burglaries,340
+2017,PUNJAB,burglaries,10978
+2017,Bahawalpur Div.,burglaries,605
+2017,Bahawalnagar,burglaries,171
+2017,Bahawalpur,burglaries,243
+2017,Rahim Yar Khan,burglaries,191
+2017,D.G.Khan Division,burglaries,606
+2017,D.G.Khan,burglaries,112
+2017,Layyah,burglaries,39
+2017,Muzaffargarh,burglaries,354
+2017,Rajanpur,burglaries,101
+2017,Faisalabad Div.,burglaries,931
+2017,Faisalabad,burglaries,531
+2017,Chiniot,burglaries,121
+2017,Jhang,burglaries,126
+2017,T.T.Singh,burglaries,153
+2017,Gujranwala Div.,burglaries,1117
+2017,Gujranwala,burglaries,269
+2017,Gujrat,burglaries,160
+2017,Hafizabad,burglaries,66
+2017,Mandi Baha-ud-Din,burglaries,195
+2017,Narowal,burglaries,35
+2017,Sialkot,burglaries,392
+2017,Lahore Division,burglaries,4597
+2017,Kasur,burglaries,122
+2017,Lahore,burglaries,4014
+2017,Nankana Sahib,burglaries,84
+2017,Sheikhupura,burglaries,377
+2017,Multan Division,burglaries,1154
+2017,Khanewal,burglaries,132
+2017,Lodhran,burglaries,116
+2017,Multan,burglaries,681
+2017,Vehari,burglaries,225
+2017,Rawalpindi Div.,burglaries,660
+2017,Attock,burglaries,75
+2017,Chakwal,burglaries,82
+2017,Jhelum,burglaries,54
+2017,Rawalpindi,burglaries,449
+2017,Sahiwal Division,burglaries,747
+2017,Sahiwal,burglaries,273
+2017,Okara,burglaries,313
+2017,Pakpattan,burglaries,161
+2017,Sargodha Div.,burglaries,561
+2017,Bhakkar,burglaries,65
+2017,Khushab,burglaries,71
+2017,Mianwali,burglaries,67
+2017,Sargodha,burglaries,358
+2018,PUNJAB,burglaries,11424
+2018,Bahawalpur Div.,burglaries,768
+2018,Bahawalnagar,burglaries,186
+2018,Bahawalpur,burglaries,312
+2018,Rahim Yar Khan,burglaries,270
+2018,D.G.Khan Division,burglaries,749
+2018,D.G.Khan,burglaries,168
+2018,Layyah,burglaries,54
+2018,Muzaffargarh,burglaries,429
+2018,Rajanpur,burglaries,98
+2018,Faisalabad Div.,burglaries,1038
+2018,Faisalabad,burglaries,581
+2018,Chiniot,burglaries,144
+2018,Jhang,burglaries,162
+2018,T.T.Singh,burglaries,151
+2018,Gujranwala Div.,burglaries,974
+2018,Gujranwala,burglaries,288
+2018,Gujrat,burglaries,115
+2018,Hafizabad,burglaries,61
+2018,Mandi Baha-ud-Din,burglaries,147
+2018,Narowal,burglaries,49
+2018,Sialkot,burglaries,314
+2018,Lahore Division,burglaries,4675
+2018,Kasur,burglaries,104
+2018,Lahore,burglaries,4126
+2018,Nankana Sahib,burglaries,104
+2018,Sheikhupura,burglaries,341
+2018,Multan Division,burglaries,1182
+2018,Khanewal,burglaries,165
+2018,Lodhran,burglaries,124
+2018,Multan,burglaries,657
+2018,Vehari,burglaries,236
+2018,Rawalpindi Div.,burglaries,702
+2018,Attock,burglaries,60
+2018,Chakwal,burglaries,79
+2018,Jhelum,burglaries,76
+2018,Rawalpindi,burglaries,487
+2018,Sahiwal Division,burglaries,727
+2018,Sahiwal,burglaries,267
+2018,Okara,burglaries,305
+2018,Pakpattan,burglaries,155
+2018,Sargodha Div.,burglaries,609
+2018,Bhakkar,burglaries,77
+2018,Khushab,burglaries,59
+2018,Mianwali,burglaries,91
+2018,Sargodha,burglaries,382
+2019,PUNJAB,burglaries,12643
+2019,Bahawalpur Div.,burglaries,998
+2019,Bahawalnagar,burglaries,123
+2019,Bahawalpur,burglaries,500
+2019,Rahim Yar Khan,burglaries,375
+2019,D.G.Khan Division,burglaries,576
+2019,D.G.Khan,burglaries,129
+2019,Layyah,burglaries,49
+2019,Muzaffargarh,burglaries,282
+2019,Rajanpur,burglaries,116
+2019,Faisalabad Div.,burglaries,1229
+2019,Faisalabad,burglaries,670
+2019,Chiniot,burglaries,150
+2019,Jhang,burglaries,211
+2019,T.T.Singh,burglaries,198
+2019,Gujranwala Div.,burglaries,996
+2019,Gujranwala,burglaries,314
+2019,Gujrat,burglaries,133
+2019,Hafizabad,burglaries,77
+2019,Mandi Baha-ud-Din,burglaries,88
+2019,Narowal,burglaries,58
+2019,Sialkot,burglaries,326
+2019,Lahore Division,burglaries,5041
+2019,Kasur,burglaries,166
+2019,Lahore,burglaries,4373
+2019,Nankana Sahib,burglaries,137
+2019,Sheikhupura,burglaries,365
+2019,Multan Division,burglaries,1406
+2019,Khanewal,burglaries,154
+2019,Lodhran,burglaries,151
+2019,Multan,burglaries,719
+2019,Vehari,burglaries,382
+2019,Rawalpindi Div.,burglaries,973
+2019,Attock,burglaries,66
+2019,Chakwal,burglaries,88
+2019,Jhelum,burglaries,95
+2019,Rawalpindi,burglaries,724
+2019,Sahiwal Division,burglaries,666
+2019,Sahiwal,burglaries,165
+2019,Okara,burglaries,333
+2019,Pakpattan,burglaries,168
+2019,Sargodha Div.,burglaries,758
+2019,Bhakkar,burglaries,124
+2019,Khushab,burglaries,68
+2019,Mianwali,burglaries,104
+2019,Sargodha,burglaries,462
+2020,PUNJAB,burglaries,12825
+2020,Bahawalpur Div.,burglaries,1194
+2020,Bahawalnagar,burglaries,174
+2020,Bahawalpur,burglaries,493
+2020,Rahim Yar Khan,burglaries,527
+2020,D.G.Khan Division,burglaries,968
+2020,D.G.Khan,burglaries,127
+2020,Layyah,burglaries,140
+2020,Muzaffargarh,burglaries,542
+2020,Rajanpur,burglaries,159
+2020,Faisalabad Div.,burglaries,1174
+2020,Faisalabad,burglaries,593
+2020,Chiniot,burglaries,157
+2020,Jhang,burglaries,185
+2020,T.T.Singh,burglaries,239
+2020,Gujranwala Div.,burglaries,1141
+2020,Gujranwala,burglaries,370
+2020,Gujrat,burglaries,144
+2020,Hafizabad,burglaries,84
+2020,Mandi Baha-ud-Din,burglaries,90
+2020,Narowal,burglaries,52
+2020,Sialkot,burglaries,401
+2020,Lahore Division,burglaries,4293
+2020,Kasur,burglaries,160
+2020,Lahore,burglaries,3632
+2020,Nankana Sahib,burglaries,139
+2020,Sheikhupura,burglaries,362
+2020,Multan Division,burglaries,953
+2020,Khanewal,burglaries,113
+2020,Lodhran,burglaries,71
+2020,Multan,burglaries,549
+2020,Vehari,burglaries,220
+2020,Rawalpindi Div.,burglaries,1706
+2020,Attock,burglaries,83
+2020,Chakwal,burglaries,95
+2020,Jhelum,burglaries,144
+2020,Rawalpindi,burglaries,1384
+2020,Sahiwal Division,burglaries,580
+2020,Sahiwal,burglaries,140
+2020,Okara,burglaries,320
+2020,Pakpattan,burglaries,120
+2020,Sargodha Div.,burglaries,816
+2020,Bhakkar,burglaries,128
+2020,Khushab,burglaries,66
+2020,Mianwali,burglaries,116
+2020,Sargodha,burglaries,506
+2008,PUNJAB,Motor Vehical Theft,11982
+2008,Bahawalpur Div.,Motor Vehical Theft,742
+2008,Bahawalnagar,Motor Vehical Theft,108
+2008,Bahawalpur,Motor Vehical Theft,296
+2008,Rahim Yar Khan,Motor Vehical Theft,338
+2008,D.G.Khan Division,Motor Vehical Theft,375
+2008,D.G.Khan,Motor Vehical Theft,151
+2008,Layyah,Motor Vehical Theft,67
+2008,Muzaffargarh,Motor Vehical Theft,113
+2008,Rajanpur,Motor Vehical Theft,44
+2008,Faisalabad Div.,Motor Vehical Theft,1190
+2008,Faisalabad,Motor Vehical Theft,1051
+2008,Chiniot,Motor Vehical Theft,
+2008,Jhang,Motor Vehical Theft,75
+2008,T.T.Singh,Motor Vehical Theft,64
+2008,Gujranwala Div.,Motor Vehical Theft,1369
+2008,Gujranwala,Motor Vehical Theft,486
+2008,Gujrat,Motor Vehical Theft,360
+2008,Hafizabad,Motor Vehical Theft,73
+2008,Mandi Baha-ud-Din,Motor Vehical Theft,50
+2008,Narowal,Motor Vehical Theft,15
+2008,Sialkot,Motor Vehical Theft,385
+2008,Lahore Division,Motor Vehical Theft,5055
+2008,Kasur,Motor Vehical Theft,95
+2008,Lahore,Motor Vehical Theft,4691
+2008,Nankana Sahib,Motor Vehical Theft,53
+2008,Sheikhupura,Motor Vehical Theft,216
+2008,Multan Division,Motor Vehical Theft,1049
+2008,Khanewal,Motor Vehical Theft,127
+2008,Lodhran,Motor Vehical Theft,52
+2008,Multan,Motor Vehical Theft,743
+2008,Vehari,Motor Vehical Theft,127
+2008,Rawalpindi Div.,Motor Vehical Theft,1513
+2008,Attock,Motor Vehical Theft,48
+2008,Chakwal,Motor Vehical Theft,30
+2008,Jhelum,Motor Vehical Theft,43
+2008,Rawalpindi,Motor Vehical Theft,1392
+2008,Sahiwal Division,Motor Vehical Theft,347
+2008,Sahiwal,Motor Vehical Theft,160
+2008,Okara,Motor Vehical Theft,147
+2008,Pakpattan,Motor Vehical Theft,40
+2008,Sargodha Div.,Motor Vehical Theft,342
+2008,Bhakkar,Motor Vehical Theft,40
+2008,Khushab,Motor Vehical Theft,23
+2008,Mianwali,Motor Vehical Theft,43
+2008,Sargodha,Motor Vehical Theft,236
+2009,PUNJAB,Motor Vehical Theft,14061
+2009,Bahawalpur Div.,Motor Vehical Theft,903
+2009,Bahawalnagar,Motor Vehical Theft,147
+2009,Bahawalpur,Motor Vehical Theft,447
+2009,Rahim Yar Khan,Motor Vehical Theft,309
+2009,D.G.Khan Division,Motor Vehical Theft,417
+2009,D.G.Khan,Motor Vehical Theft,191
+2009,Layyah,Motor Vehical Theft,39
+2009,Muzaffargarh,Motor Vehical Theft,130
+2009,Rajanpur,Motor Vehical Theft,57
+2009,Faisalabad Div.,Motor Vehical Theft,1875
+2009,Faisalabad,Motor Vehical Theft,1649
+2009,Chiniot,Motor Vehical Theft,60
+2009,Jhang,Motor Vehical Theft,75
+2009,T.T.Singh,Motor Vehical Theft,91
+2009,Gujranwala Div.,Motor Vehical Theft,1411
+2009,Gujranwala,Motor Vehical Theft,575
+2009,Gujrat,Motor Vehical Theft,332
+2009,Hafizabad,Motor Vehical Theft,63
+2009,Mandi Baha-ud-Din,Motor Vehical Theft,39
+2009,Narowal,Motor Vehical Theft,18
+2009,Sialkot,Motor Vehical Theft,384
+2009,Lahore Division,Motor Vehical Theft,5419
+2009,Kasur,Motor Vehical Theft,146
+2009,Lahore,Motor Vehical Theft,4956
+2009,Nankana Sahib,Motor Vehical Theft,41
+2009,Sheikhupura,Motor Vehical Theft,276
+2009,Multan Division,Motor Vehical Theft,1582
+2009,Khanewal,Motor Vehical Theft,136
+2009,Lodhran,Motor Vehical Theft,70
+2009,Multan,Motor Vehical Theft,1228
+2009,Vehari,Motor Vehical Theft,148
+2009,Rawalpindi Div.,Motor Vehical Theft,1677
+2009,Attock,Motor Vehical Theft,62
+2009,Chakwal,Motor Vehical Theft,54
+2009,Jhelum,Motor Vehical Theft,50
+2009,Rawalpindi,Motor Vehical Theft,1511
+2009,Sahiwal Division,Motor Vehical Theft,350
+2009,Sahiwal,Motor Vehical Theft,178
+2009,Okara,Motor Vehical Theft,129
+2009,Pakpattan,Motor Vehical Theft,43
+2009,Sargodha Div.,Motor Vehical Theft,427
+2009,Bhakkar,Motor Vehical Theft,43
+2009,Khushab,Motor Vehical Theft,20
+2009,Mianwali,Motor Vehical Theft,50
+2009,Sargodha,Motor Vehical Theft,314
+2010,PUNJAB,Motor Vehical Theft,18738
+2010,Bahawalpur Div.,Motor Vehical Theft,854
+2010,Bahawalnagar,Motor Vehical Theft,124
+2010,Bahawalpur,Motor Vehical Theft,371
+2010,Rahim Yar Khan,Motor Vehical Theft,359
+2010,D.G.Khan Division,Motor Vehical Theft,571
+2010,D.G.Khan,Motor Vehical Theft,224
+2010,Layyah,Motor Vehical Theft,64
+2010,Muzaffargarh,Motor Vehical Theft,196
+2010,Rajanpur,Motor Vehical Theft,87
+2010,Faisalabad Div.,Motor Vehical Theft,2909
+2010,Faisalabad,Motor Vehical Theft,2554
+2010,Chiniot,Motor Vehical Theft,68
+2010,Jhang,Motor Vehical Theft,147
+2010,T.T.Singh,Motor Vehical Theft,140
+2010,Gujranwala Div.,Motor Vehical Theft,1705
+2010,Gujranwala,Motor Vehical Theft,850
+2010,Gujrat,Motor Vehical Theft,244
+2010,Hafizabad,Motor Vehical Theft,79
+2010,Mandi Baha-ud-Din,Motor Vehical Theft,62
+2010,Narowal,Motor Vehical Theft,27
+2010,Sialkot,Motor Vehical Theft,443
+2010,Lahore Division,Motor Vehical Theft,7328
+2010,Kasur,Motor Vehical Theft,170
+2010,Lahore,Motor Vehical Theft,6740
+2010,Nankana Sahib,Motor Vehical Theft,51
+2010,Sheikhupura,Motor Vehical Theft,367
+2010,Multan Division,Motor Vehical Theft,1891
+2010,Khanewal,Motor Vehical Theft,225
+2010,Lodhran,Motor Vehical Theft,118
+2010,Multan,Motor Vehical Theft,1419
+2010,Vehari,Motor Vehical Theft,129
+2010,Rawalpindi Div.,Motor Vehical Theft,2326
+2010,Attock,Motor Vehical Theft,79
+2010,Chakwal,Motor Vehical Theft,46
+2010,Jhelum,Motor Vehical Theft,54
+2010,Rawalpindi,Motor Vehical Theft,2147
+2010,Sahiwal Division,Motor Vehical Theft,574
+2010,Sahiwal,Motor Vehical Theft,280
+2010,Okara,Motor Vehical Theft,242
+2010,Pakpattan,Motor Vehical Theft,52
+2010,Sargodha Div.,Motor Vehical Theft,580
+2010,Bhakkar,Motor Vehical Theft,61
+2010,Khushab,Motor Vehical Theft,26
+2010,Mianwali,Motor Vehical Theft,33
+2010,Sargodha,Motor Vehical Theft,460
+2011,PUNJAB,Motor Vehical Theft,22224
+2011,Bahawalpur Div.,Motor Vehical Theft,1132
+2011,Bahawalnagar,Motor Vehical Theft,171
+2011,Bahawalpur,Motor Vehical Theft,602
+2011,Rahim Yar Khan,Motor Vehical Theft,359
+2011,D.G.Khan Division,Motor Vehical Theft,650
+2011,D.G.Khan,Motor Vehical Theft,259
+2011,Layyah,Motor Vehical Theft,111
+2011,Muzaffargarh,Motor Vehical Theft,196
+2011,Rajanpur,Motor Vehical Theft,84
+2011,Faisalabad Div.,Motor Vehical Theft,3746
+2011,Faisalabad,Motor Vehical Theft,3318
+2011,Chiniot,Motor Vehical Theft,80
+2011,Jhang,Motor Vehical Theft,157
+2011,T.T.Singh,Motor Vehical Theft,191
+2011,Gujranwala Div.,Motor Vehical Theft,2174
+2011,Gujranwala,Motor Vehical Theft,1164
+2011,Gujrat,Motor Vehical Theft,274
+2011,Hafizabad,Motor Vehical Theft,70
+2011,Mandi Baha-ud-Din,Motor Vehical Theft,100
+2011,Narowal,Motor Vehical Theft,52
+2011,Sialkot,Motor Vehical Theft,514
+2011,Lahore Division,Motor Vehical Theft,8562
+2011,Kasur,Motor Vehical Theft,226
+2011,Lahore,Motor Vehical Theft,7832
+2011,Nankana Sahib,Motor Vehical Theft,79
+2011,Sheikhupura,Motor Vehical Theft,425
+2011,Multan Division,Motor Vehical Theft,2266
+2011,Khanewal,Motor Vehical Theft,227
+2011,Lodhran,Motor Vehical Theft,83
+2011,Multan,Motor Vehical Theft,1787
+2011,Vehari,Motor Vehical Theft,169
+2011,Rawalpindi Div.,Motor Vehical Theft,2219
+2011,Attock,Motor Vehical Theft,93
+2011,Chakwal,Motor Vehical Theft,66
+2011,Jhelum,Motor Vehical Theft,53
+2011,Rawalpindi,Motor Vehical Theft,2007
+2011,Sahiwal Division,Motor Vehical Theft,769
+2011,Sahiwal,Motor Vehical Theft,335
+2011,Okara,Motor Vehical Theft,348
+2011,Pakpattan,Motor Vehical Theft,86
+2011,Sargodha Div.,Motor Vehical Theft,706
+2011,Bhakkar,Motor Vehical Theft,111
+2011,Khushab,Motor Vehical Theft,39
+2011,Mianwali,Motor Vehical Theft,68
+2011,Sargodha,Motor Vehical Theft,488
+2012,PUNJAB,Motor Vehical Theft,20418
+2012,Bahawalpur Div.,Motor Vehical Theft,1179
+2012,Bahawalnagar,Motor Vehical Theft,173
+2012,Bahawalpur,Motor Vehical Theft,596
+2012,Rahim Yar Khan,Motor Vehical Theft,410
+2012,D.G.Khan Division,Motor Vehical Theft,733
+2012,D.G.Khan,Motor Vehical Theft,228
+2012,Layyah,Motor Vehical Theft,146
+2012,Muzaffargarh,Motor Vehical Theft,228
+2012,Rajanpur,Motor Vehical Theft,131
+2012,Faisalabad Div.,Motor Vehical Theft,2821
+2012,Faisalabad,Motor Vehical Theft,2450
+2012,Chiniot,Motor Vehical Theft,50
+2012,Jhang,Motor Vehical Theft,126
+2012,T.T.Singh,Motor Vehical Theft,195
+2012,Gujranwala Div.,Motor Vehical Theft,2085
+2012,Gujranwala,Motor Vehical Theft,1041
+2012,Gujrat,Motor Vehical Theft,313
+2012,Hafizabad,Motor Vehical Theft,83
+2012,Mandi Baha-ud-Din,Motor Vehical Theft,94
+2012,Narowal,Motor Vehical Theft,43
+2012,Sialkot,Motor Vehical Theft,511
+2012,Lahore Division,Motor Vehical Theft,8193
+2012,Kasur,Motor Vehical Theft,203
+2012,Lahore,Motor Vehical Theft,7563
+2012,Nankana Sahib,Motor Vehical Theft,72
+2012,Sheikhupura,Motor Vehical Theft,355
+2012,Multan Division,Motor Vehical Theft,1955
+2012,Khanewal,Motor Vehical Theft,250
+2012,Lodhran,Motor Vehical Theft,65
+2012,Multan,Motor Vehical Theft,1436
+2012,Vehari,Motor Vehical Theft,204
+2012,Rawalpindi Div.,Motor Vehical Theft,1955
+2012,Attock,Motor Vehical Theft,80
+2012,Chakwal,Motor Vehical Theft,76
+2012,Jhelum,Motor Vehical Theft,59
+2012,Rawalpindi,Motor Vehical Theft,1740
+2012,Sahiwal Division,Motor Vehical Theft,918
+2012,Sahiwal,Motor Vehical Theft,428
+2012,Okara,Motor Vehical Theft,375
+2012,Pakpattan,Motor Vehical Theft,115
+2012,Sargodha Div.,Motor Vehical Theft,579
+2012,Bhakkar,Motor Vehical Theft,82
+2012,Khushab,Motor Vehical Theft,62
+2012,Mianwali,Motor Vehical Theft,38
+2012,Sargodha,Motor Vehical Theft,397
+2013,PUNJAB,Motor Vehical Theft,20677
+2013,Bahawalpur Div.,Motor Vehical Theft,976
+2013,Bahawalnagar,Motor Vehical Theft,158
+2013,Bahawalpur,Motor Vehical Theft,434
+2013,Rahim Yar Khan,Motor Vehical Theft,384
+2013,D.G.Khan Division,Motor Vehical Theft,867
+2013,D.G.Khan,Motor Vehical Theft,351
+2013,Layyah,Motor Vehical Theft,135
+2013,Muzaffargarh,Motor Vehical Theft,200
+2013,Rajanpur,Motor Vehical Theft,181
+2013,Faisalabad Div.,Motor Vehical Theft,2759
+2013,Faisalabad,Motor Vehical Theft,2275
+2013,Chiniot,Motor Vehical Theft,66
+2013,Jhang,Motor Vehical Theft,214
+2013,T.T.Singh,Motor Vehical Theft,204
+2013,Gujranwala Div.,Motor Vehical Theft,2112
+2013,Gujranwala,Motor Vehical Theft,1113
+2013,Gujrat,Motor Vehical Theft,242
+2013,Hafizabad,Motor Vehical Theft,64
+2013,Mandi Baha-ud-Din,Motor Vehical Theft,136
+2013,Narowal,Motor Vehical Theft,37
+2013,Sialkot,Motor Vehical Theft,520
+2013,Lahore Division,Motor Vehical Theft,7712
+2013,Kasur,Motor Vehical Theft,279
+2013,Lahore,Motor Vehical Theft,7044
+2013,Nankana Sahib,Motor Vehical Theft,56
+2013,Sheikhupura,Motor Vehical Theft,333
+2013,Multan Division,Motor Vehical Theft,2145
+2013,Khanewal,Motor Vehical Theft,281
+2013,Lodhran,Motor Vehical Theft,99
+2013,Multan,Motor Vehical Theft,1535
+2013,Vehari,Motor Vehical Theft,230
+2013,Rawalpindi Div.,Motor Vehical Theft,2461
+2013,Attock,Motor Vehical Theft,63
+2013,Chakwal,Motor Vehical Theft,75
+2013,Jhelum,Motor Vehical Theft,67
+2013,Rawalpindi,Motor Vehical Theft,2256
+2013,Sahiwal Division,Motor Vehical Theft,998
+2013,Sahiwal,Motor Vehical Theft,429
+2013,Okara,Motor Vehical Theft,469
+2013,Pakpattan,Motor Vehical Theft,100
+2013,Sargodha Div.,Motor Vehical Theft,647
+2013,Bhakkar,Motor Vehical Theft,53
+2013,Khushab,Motor Vehical Theft,66
+2013,Mianwali,Motor Vehical Theft,58
+2013,Sargodha,Motor Vehical Theft,470
+2014,PUNJAB,Motor Vehical Theft,20310
+2014,Bahawalpur Div.,Motor Vehical Theft,858
+2014,Bahawalnagar,Motor Vehical Theft,148
+2014,Bahawalpur,Motor Vehical Theft,342
+2014,Rahim Yar Khan,Motor Vehical Theft,368
+2014,D.G.Khan Division,Motor Vehical Theft,784
+2014,D.G.Khan,Motor Vehical Theft,342
+2014,Layyah,Motor Vehical Theft,72
+2014,Muzaffargarh,Motor Vehical Theft,210
+2014,Rajanpur,Motor Vehical Theft,160
+2014,Faisalabad Div.,Motor Vehical Theft,2056
+2014,Faisalabad,Motor Vehical Theft,1515
+2014,Chiniot,Motor Vehical Theft,111
+2014,Jhang,Motor Vehical Theft,181
+2014,T.T.Singh,Motor Vehical Theft,249
+2014,Gujranwala Div.,Motor Vehical Theft,2624
+2014,Gujranwala,Motor Vehical Theft,1386
+2014,Gujrat,Motor Vehical Theft,289
+2014,Hafizabad,Motor Vehical Theft,112
+2014,Mandi Baha-ud-Din,Motor Vehical Theft,129
+2014,Narowal,Motor Vehical Theft,76
+2014,Sialkot,Motor Vehical Theft,632
+2014,Lahore Division,Motor Vehical Theft,7623
+2014,Kasur,Motor Vehical Theft,6875
+2014,Lahore,Motor Vehical Theft,259
+2014,Nankana Sahib,Motor Vehical Theft,68
+2014,Sheikhupura,Motor Vehical Theft,421
+2014,Multan Division,Motor Vehical Theft,2033
+2014,Khanewal,Motor Vehical Theft,187
+2014,Lodhran,Motor Vehical Theft,125
+2014,Multan,Motor Vehical Theft,1440
+2014,Vehari,Motor Vehical Theft,281
+2014,Rawalpindi Div.,Motor Vehical Theft,2670
+2014,Attock,Motor Vehical Theft,60
+2014,Chakwal,Motor Vehical Theft,81
+2014,Jhelum,Motor Vehical Theft,57
+2014,Rawalpindi,Motor Vehical Theft,2472
+2014,Sahiwal Division,Motor Vehical Theft,1074
+2014,Sahiwal,Motor Vehical Theft,455
+2014,Okara,Motor Vehical Theft,508
+2014,Pakpattan,Motor Vehical Theft,111
+2014,Sargodha Div.,Motor Vehical Theft,588
+2014,Bhakkar,Motor Vehical Theft,67
+2014,Khushab,Motor Vehical Theft,40
+2014,Mianwali,Motor Vehical Theft,45
+2014,Sargodha,Motor Vehical Theft,436
+2015,PUNJAB,Motor Vehical Theft,17805
+2015,Bahawalpur Div.,Motor Vehical Theft,833
+2015,Bahawalnagar,Motor Vehical Theft,137
+2015,Bahawalpur,Motor Vehical Theft,334
+2015,Rahim Yar Khan,Motor Vehical Theft,362
+2015,D.G.Khan Division,Motor Vehical Theft,744
+2015,D.G.Khan,Motor Vehical Theft,383
+2015,Layyah,Motor Vehical Theft,47
+2015,Muzaffargarh,Motor Vehical Theft,201
+2015,Rajanpur,Motor Vehical Theft,113
+2015,Faisalabad Div.,Motor Vehical Theft,1782
+2015,Faisalabad,Motor Vehical Theft,1323
+2015,Chiniot,Motor Vehical Theft,91
+2015,Jhang,Motor Vehical Theft,142
+2015,T.T.Singh,Motor Vehical Theft,226
+2015,Gujranwala Div.,Motor Vehical Theft,2114
+2015,Gujranwala,Motor Vehical Theft,1014
+2015,Gujrat,Motor Vehical Theft,216
+2015,Hafizabad,Motor Vehical Theft,52
+2015,Mandi Baha-ud-Din,Motor Vehical Theft,122
+2015,Narowal,Motor Vehical Theft,67
+2015,Sialkot,Motor Vehical Theft,643
+2015,Lahore Division,Motor Vehical Theft,7019
+2015,Kasur,Motor Vehical Theft,207
+2015,Lahore,Motor Vehical Theft,6320
+2015,Nankana Sahib,Motor Vehical Theft,67
+2015,Sheikhupura,Motor Vehical Theft,425
+2015,Multan Division,Motor Vehical Theft,2193
+2015,Khanewal,Motor Vehical Theft,158
+2015,Lodhran,Motor Vehical Theft,120
+2015,Multan,Motor Vehical Theft,1647
+2015,Vehari,Motor Vehical Theft,268
+2015,Rawalpindi Div.,Motor Vehical Theft,1710
+2015,Attock,Motor Vehical Theft,33
+2015,Chakwal,Motor Vehical Theft,63
+2015,Jhelum,Motor Vehical Theft,44
+2015,Rawalpindi,Motor Vehical Theft,1570
+2015,Sahiwal Division,Motor Vehical Theft,816
+2015,Sahiwal,Motor Vehical Theft,368
+2015,Okara,Motor Vehical Theft,345
+2015,Pakpattan,Motor Vehical Theft,103
+2015,Sargodha Div.,Motor Vehical Theft,594
+2015,Bhakkar,Motor Vehical Theft,66
+2015,Khushab,Motor Vehical Theft,37
+2015,Mianwali,Motor Vehical Theft,53
+2015,Sargodha,Motor Vehical Theft,438
+2016,PUNJAB,Motor Vehical Theft,16042
+2016,Bahawalpur Div.,Motor Vehical Theft,789
+2016,Bahawalnagar,Motor Vehical Theft,167
+2016,Bahawalpur,Motor Vehical Theft,330
+2016,Rahim Yar Khan,Motor Vehical Theft,292
+2016,D.G.Khan Division,Motor Vehical Theft,812
+2016,D.G.Khan,Motor Vehical Theft,262
+2016,Layyah,Motor Vehical Theft,93
+2016,Muzaffargarh,Motor Vehical Theft,322
+2016,Rajanpur,Motor Vehical Theft,135
+2016,Faisalabad Div.,Motor Vehical Theft,1932
+2016,Faisalabad,Motor Vehical Theft,1365
+2016,Chiniot,Motor Vehical Theft,133
+2016,Jhang,Motor Vehical Theft,192
+2016,T.T.Singh,Motor Vehical Theft,242
+2016,Gujranwala Div.,Motor Vehical Theft,1680
+2016,Gujranwala,Motor Vehical Theft,721
+2016,Gujrat,Motor Vehical Theft,212
+2016,Hafizabad,Motor Vehical Theft,78
+2016,Mandi Baha-ud-Din,Motor Vehical Theft,139
+2016,Narowal,Motor Vehical Theft,61
+2016,Sialkot,Motor Vehical Theft,469
+2016,Lahore Division,Motor Vehical Theft,5945
+2016,Kasur,Motor Vehical Theft,150
+2016,Lahore,Motor Vehical Theft,5362
+2016,Nankana Sahib,Motor Vehical Theft,31
+2016,Sheikhupura,Motor Vehical Theft,402
+2016,Multan Division,Motor Vehical Theft,2014
+2016,Khanewal,Motor Vehical Theft,123
+2016,Lodhran,Motor Vehical Theft,99
+2016,Multan,Motor Vehical Theft,1525
+2016,Vehari,Motor Vehical Theft,267
+2016,Rawalpindi Div.,Motor Vehical Theft,1365
+2016,Attock,Motor Vehical Theft,51
+2016,Chakwal,Motor Vehical Theft,82
+2016,Jhelum,Motor Vehical Theft,37
+2016,Rawalpindi,Motor Vehical Theft,1195
+2016,Sahiwal Division,Motor Vehical Theft,844
+2016,Sahiwal,Motor Vehical Theft,399
+2016,Okara,Motor Vehical Theft,331
+2016,Pakpattan,Motor Vehical Theft,114
+2016,Sargodha Div.,Motor Vehical Theft,661
+2016,Bhakkar,Motor Vehical Theft,85
+2016,Khushab,Motor Vehical Theft,63
+2016,Mianwali,Motor Vehical Theft,38
+2016,Sargodha,Motor Vehical Theft,475
+2017,PUNJAB,Motor Vehical Theft,15474
+2017,Bahawalpur Div.,Motor Vehical Theft,696
+2017,Bahawalnagar,Motor Vehical Theft,138
+2017,Bahawalpur,Motor Vehical Theft,298
+2017,Rahim Yar Khan,Motor Vehical Theft,260
+2017,D.G.Khan Division,Motor Vehical Theft,895
+2017,D.G.Khan,Motor Vehical Theft,342
+2017,Layyah,Motor Vehical Theft,85
+2017,Muzaffargarh,Motor Vehical Theft,334
+2017,Rajanpur,Motor Vehical Theft,134
+2017,Faisalabad Div.,Motor Vehical Theft,1567
+2017,Faisalabad,Motor Vehical Theft,1155
+2017,Chiniot,Motor Vehical Theft,84
+2017,Jhang,Motor Vehical Theft,150
+2017,T.T.Singh,Motor Vehical Theft,178
+2017,Gujranwala Div.,Motor Vehical Theft,2125
+2017,Gujranwala,Motor Vehical Theft,780
+2017,Gujrat,Motor Vehical Theft,369
+2017,Hafizabad,Motor Vehical Theft,59
+2017,Mandi Baha-ud-Din,Motor Vehical Theft,181
+2017,Narowal,Motor Vehical Theft,111
+2017,Sialkot,Motor Vehical Theft,625
+2017,Lahore Division,Motor Vehical Theft,5508
+2017,Kasur,Motor Vehical Theft,162
+2017,Lahore,Motor Vehical Theft,4889
+2017,Nankana Sahib,Motor Vehical Theft,64
+2017,Sheikhupura,Motor Vehical Theft,393
+2017,Multan Division,Motor Vehical Theft,1960
+2017,Khanewal,Motor Vehical Theft,182
+2017,Lodhran,Motor Vehical Theft,69
+2017,Multan,Motor Vehical Theft,1421
+2017,Vehari,Motor Vehical Theft,288
+2017,Rawalpindi Div.,Motor Vehical Theft,1532
+2017,Attock,Motor Vehical Theft,57
+2017,Chakwal,Motor Vehical Theft,87
+2017,Jhelum,Motor Vehical Theft,70
+2017,Rawalpindi,Motor Vehical Theft,1318
+2017,Sahiwal Division,Motor Vehical Theft,615
+2017,Sahiwal,Motor Vehical Theft,268
+2017,Okara,Motor Vehical Theft,290
+2017,Pakpattan,Motor Vehical Theft,57
+2017,Sargodha Div.,Motor Vehical Theft,576
+2017,Bhakkar,Motor Vehical Theft,35
+2017,Khushab,Motor Vehical Theft,85
+2017,Mianwali,Motor Vehical Theft,79
+2017,Sargodha,Motor Vehical Theft,377
+2018,PUNJAB,Motor Vehical Theft,19196
+2018,Bahawalpur Div.,Motor Vehical Theft,945
+2018,Bahawalnagar,Motor Vehical Theft,163
+2018,Bahawalpur,Motor Vehical Theft,352
+2018,Rahim Yar Khan,Motor Vehical Theft,430
+2018,D.G.Khan Division,Motor Vehical Theft,1454
+2018,D.G.Khan,Motor Vehical Theft,456
+2018,Layyah,Motor Vehical Theft,128
+2018,Muzaffargarh,Motor Vehical Theft,590
+2018,Rajanpur,Motor Vehical Theft,280
+2018,Faisalabad Div.,Motor Vehical Theft,1854
+2018,Faisalabad,Motor Vehical Theft,1491
+2018,Chiniot,Motor Vehical Theft,111
+2018,Jhang,Motor Vehical Theft,114
+2018,T.T.Singh,Motor Vehical Theft,138
+2018,Gujranwala Div.,Motor Vehical Theft,2075
+2018,Gujranwala,Motor Vehical Theft,941
+2018,Gujrat,Motor Vehical Theft,191
+2018,Hafizabad,Motor Vehical Theft,71
+2018,Mandi Baha-ud-Din,Motor Vehical Theft,173
+2018,Narowal,Motor Vehical Theft,112
+2018,Sialkot,Motor Vehical Theft,587
+2018,Lahore Division,Motor Vehical Theft,7613
+2018,Kasur,Motor Vehical Theft,207
+2018,Lahore,Motor Vehical Theft,6599
+2018,Nankana Sahib,Motor Vehical Theft,113
+2018,Sheikhupura,Motor Vehical Theft,694
+2018,Multan Division,Motor Vehical Theft,1952
+2018,Khanewal,Motor Vehical Theft,137
+2018,Lodhran,Motor Vehical Theft,86
+2018,Multan,Motor Vehical Theft,1431
+2018,Vehari,Motor Vehical Theft,298
+2018,Rawalpindi Div.,Motor Vehical Theft,1992
+2018,Attock,Motor Vehical Theft,82
+2018,Chakwal,Motor Vehical Theft,71
+2018,Jhelum,Motor Vehical Theft,78
+2018,Rawalpindi,Motor Vehical Theft,1761
+2018,Sahiwal Division,Motor Vehical Theft,657
+2018,Sahiwal,Motor Vehical Theft,307
+2018,Okara,Motor Vehical Theft,263
+2018,Pakpattan,Motor Vehical Theft,87
+2018,Sargodha Div.,Motor Vehical Theft,654
+2018,Bhakkar,Motor Vehical Theft,69
+2018,Khushab,Motor Vehical Theft,39
+2018,Mianwali,Motor Vehical Theft,92
+2018,Sargodha,Motor Vehical Theft,454
+2019,PUNJAB,Motor Vehical Theft,25741
+2019,Bahawalpur Div.,Motor Vehical Theft,1322
+2019,Bahawalnagar,Motor Vehical Theft,160
+2019,Bahawalpur,Motor Vehical Theft,489
+2019,Rahim Yar Khan,Motor Vehical Theft,673
+2019,D.G.Khan Division,Motor Vehical Theft,1517
+2019,D.G.Khan,Motor Vehical Theft,494
+2019,Layyah,Motor Vehical Theft,181
+2019,Muzaffargarh,Motor Vehical Theft,512
+2019,Rajanpur,Motor Vehical Theft,330
+2019,Faisalabad Div.,Motor Vehical Theft,2014
+2019,Faisalabad,Motor Vehical Theft,1594
+2019,Chiniot,Motor Vehical Theft,107
+2019,Jhang,Motor Vehical Theft,153
+2019,T.T.Singh,Motor Vehical Theft,160
+2019,Gujranwala Div.,Motor Vehical Theft,2308
+2019,Gujranwala,Motor Vehical Theft,969
+2019,Gujrat,Motor Vehical Theft,276
+2019,Hafizabad,Motor Vehical Theft,108
+2019,Mandi Baha-ud-Din,Motor Vehical Theft,193
+2019,Narowal,Motor Vehical Theft,110
+2019,Sialkot,Motor Vehical Theft,652
+2019,Lahore Division,Motor Vehical Theft,10271
+2019,Kasur,Motor Vehical Theft,379
+2019,Lahore,Motor Vehical Theft,8937
+2019,Nankana Sahib,Motor Vehical Theft,232
+2019,Sheikhupura,Motor Vehical Theft,723
+2019,Multan Division,Motor Vehical Theft,3015
+2019,Khanewal,Motor Vehical Theft,310
+2019,Lodhran,Motor Vehical Theft,177
+2019,Multan,Motor Vehical Theft,2084
+2019,Vehari,Motor Vehical Theft,444
+2019,Rawalpindi Div.,Motor Vehical Theft,3586
+2019,Attock,Motor Vehical Theft,91
+2019,Chakwal,Motor Vehical Theft,76
+2019,Jhelum,Motor Vehical Theft,121
+2019,Rawalpindi,Motor Vehical Theft,3298
+2019,Sahiwal Division,Motor Vehical Theft,749
+2019,Sahiwal,Motor Vehical Theft,246
+2019,Okara,Motor Vehical Theft,376
+2019,Pakpattan,Motor Vehical Theft,127
+2019,Sargodha Div.,Motor Vehical Theft,959
+2019,Bhakkar,Motor Vehical Theft,131
+2019,Khushab,Motor Vehical Theft,59
+2019,Mianwali,Motor Vehical Theft,119
+2019,Sargodha,Motor Vehical Theft,650
+2020,PUNJAB,Motor Vehical Theft,29978
+2020,Bahawalpur Div.,Motor Vehical Theft,1836
+2020,Bahawalnagar,Motor Vehical Theft,157
+2020,Bahawalpur,Motor Vehical Theft,570
+2020,Rahim Yar Khan,Motor Vehical Theft,1109
+2020,D.G.Khan Division,Motor Vehical Theft,1932
+2020,D.G.Khan,Motor Vehical Theft,548
+2020,Layyah,Motor Vehical Theft,276
+2020,Muzaffargarh,Motor Vehical Theft,713
+2020,Rajanpur,Motor Vehical Theft,395
+2020,Faisalabad Div.,Motor Vehical Theft,2403
+2020,Faisalabad,Motor Vehical Theft,1906
+2020,Chiniot,Motor Vehical Theft,100
+2020,Jhang,Motor Vehical Theft,209
+2020,T.T.Singh,Motor Vehical Theft,188
+2020,Gujranwala Div.,Motor Vehical Theft,3171
+2020,Gujranwala,Motor Vehical Theft,1407
+2020,Gujrat,Motor Vehical Theft,269
+2020,Hafizabad,Motor Vehical Theft,173
+2020,Mandi Baha-ud-Din,Motor Vehical Theft,134
+2020,Narowal,Motor Vehical Theft,160
+2020,Sialkot,Motor Vehical Theft,1028
+2020,Lahore Division,Motor Vehical Theft,10821
+2020,Kasur,Motor Vehical Theft,503
+2020,Lahore,Motor Vehical Theft,9459
+2020,Nankana Sahib,Motor Vehical Theft,192
+2020,Sheikhupura,Motor Vehical Theft,667
+2020,Multan Division,Motor Vehical Theft,2931
+2020,Khanewal,Motor Vehical Theft,295
+2020,Lodhran,Motor Vehical Theft,174
+2020,Multan,Motor Vehical Theft,2079
+2020,Vehari,Motor Vehical Theft,383
+2020,Rawalpindi Div.,Motor Vehical Theft,5002
+2020,Attock,Motor Vehical Theft,87
+2020,Chakwal,Motor Vehical Theft,84
+2020,Jhelum,Motor Vehical Theft,132
+2020,Rawalpindi,Motor Vehical Theft,4699
+2020,Sahiwal Division,Motor Vehical Theft,897
+2020,Sahiwal,Motor Vehical Theft,294
+2020,Okara,Motor Vehical Theft,439
+2020,Pakpattan,Motor Vehical Theft,164
+2020,Sargodha Div.,Motor Vehical Theft,985
+2020,Bhakkar,Motor Vehical Theft,136
+2020,Khushab,Motor Vehical Theft,90
+2020,Mianwali,Motor Vehical Theft,156
+2020,Sargodha,Motor Vehical Theft,603
+2008,PUNJAB,Murder,5671
+2008,Bahawalpur Div.,Murder,402
+2008,Bahawalnagar,Murder,123
+2008,Bahawalpur,Murder,105
+2008,Rahim Yar Khan,Murder,174
+2008,D.G.Khan Division,Murder,320
+2008,D.G.Khan,Murder,85
+2008,Layyah,Murder,39
+2008,Muzaffargarh,Murder,106
+2008,Rajanpur,Murder,90
+2008,Faisalabad Div.,Murder,819
+2008,Faisalabad,Murder,465
+2008,Chiniot,Murder,
+2008,Jhang,Murder,242
+2008,T.T.Singh,Murder,112
+2008,Gujranwala Div.,Murder,1038
+2008,Gujranwala,Murder,305
+2008,Gujrat,Murder,246
+2008,Hafizabad,Murder,96
+2008,Mandi Baha-ud-Din,Murder,97
+2008,Narowal,Murder,61
+2008,Sialkot,Murder,233
+2008,Lahore Division,Murder,1240
+2008,Kasur,Murder,211
+2008,Lahore,Murder,612
+2008,Nankana Sahib,Murder,129
+2008,Sheikhupura,Murder,288
+2008,Multan Division,Murder,438
+2008,Khanewal,Murder,120
+2008,Lodhran,Murder,64
+2008,Multan,Murder,131
+2008,Vehari,Murder,123
+2008,Rawalpindi Div.,Murder,535
+2008,Attock,Murder,90
+2008,Chakwal,Murder,88
+2008,Jhelum,Murder,74
+2008,Rawalpindi,Murder,283
+2008,Sahiwal Division,Murder,437
+2008,Sahiwal,Murder,147
+2008,Okara,Murder,194
+2008,Pakpattan,Murder,96
+2008,Sargodha Div.,Murder,442
+2008,Bhakkar,Murder,43
+2008,Khushab,Murder,64
+2008,Mianwali,Murder,89
+2008,Sargodha,Murder,246
+2009,PUNJAB,Murder,5836
+2009,Bahawalpur Div.,Murder,423
+2009,Bahawalnagar,Murder,143
+2009,Bahawalpur,Murder,121
+2009,Rahim Yar Khan,Murder,159
+2009,D.G.Khan Division,Murder,311
+2009,D.G.Khan,Murder,82
+2009,Layyah,Murder,34
+2009,Muzaffargarh,Murder,88
+2009,Rajanpur,Murder,107
+2009,Faisalabad Div.,Murder,914
+2009,Faisalabad,Murder,530
+2009,Chiniot,Murder,135
+2009,Jhang,Murder,120
+2009,T.T.Singh,Murder,129
+2009,Gujranwala Div.,Murder,963
+2009,Gujranwala,Murder,284
+2009,Gujrat,Murder,211
+2009,Hafizabad,Murder,101
+2009,Mandi Baha-ud-Din,Murder,98
+2009,Narowal,Murder,72
+2009,Sialkot,Murder,197
+2009,Lahore Division,Murder,1276
+2009,Kasur,Murder,218
+2009,Lahore,Murder,602
+2009,Nankana Sahib,Murder,131
+2009,Sheikhupura,Murder,325
+2009,Multan Division,Murder,481
+2009,Khanewal,Murder,128
+2009,Lodhran,Murder,51
+2009,Multan,Murder,140
+2009,Vehari,Murder,162
+2009,Rawalpindi Div.,Murder,540
+2009,Attock,Murder,98
+2009,Chakwal,Murder,76
+2009,Jhelum,Murder,77
+2009,Rawalpindi,Murder,289
+2009,Sahiwal Division,Murder,483
+2009,Sahiwal,Murder,157
+2009,Okara,Murder,214
+2009,Pakpattan,Murder,112
+2009,Sargodha Div.,Murder,445
+2009,Bhakkar,Murder,40
+2009,Khushab,Murder,50
+2009,Mianwali,Murder,118
+2009,Sargodha,Murder,237
+2010,PUNJAB,Murder,6242
+2010,Bahawalpur Div.,Murder,483
+2010,Bahawalnagar,Murder,139
+2010,Bahawalpur,Murder,145
+2010,Rahim Yar Khan,Murder,199
+2010,D.G.Khan Division,Murder,361
+2010,D.G.Khan,Murder,91
+2010,Layyah,Murder,44
+2010,Muzaffargarh,Murder,138
+2010,Rajanpur,Murder,88
+2010,Faisalabad Div.,Murder,1044
+2010,Faisalabad,Murder,592
+2010,Chiniot,Murder,147
+2010,Jhang,Murder,160
+2010,T.T.Singh,Murder,145
+2010,Gujranwala Div.,Murder,1003
+2010,Gujranwala,Murder,272
+2010,Gujrat,Murder,253
+2010,Hafizabad,Murder,104
+2010,Mandi Baha-ud-Din,Murder,104
+2010,Narowal,Murder,65
+2010,Sialkot,Murder,205
+2010,Lahore Division,Murder,1363
+2010,Kasur,Murder,225
+2010,Lahore,Murder,627
+2010,Nankana Sahib,Murder,142
+2010,Sheikhupura,Murder,369
+2010,Multan Division,Murder,459
+2010,Khanewal,Murder,157
+2010,Lodhran,Murder,141
+2010,Multan,Murder,62
+2010,Vehari,Murder,99
+2010,Rawalpindi Div.,Murder,560
+2010,Attock,Murder,104
+2010,Chakwal,Murder,76
+2010,Jhelum,Murder,58
+2010,Rawalpindi,Murder,322
+2010,Sahiwal Division,Murder,491
+2010,Sahiwal,Murder,169
+2010,Okara,Murder,213
+2010,Pakpattan,Murder,109
+2010,Sargodha Div.,Murder,478
+2010,Bhakkar,Murder,54
+2010,Khushab,Murder,61
+2010,Mianwali,Murder,107
+2010,Sargodha,Murder,256
+2011,PUNJAB,Murder,6666
+2011,Bahawalpur Div.,Murder,476
+2011,Bahawalnagar,Murder,154
+2011,Bahawalpur,Murder,147
+2011,Rahim Yar Khan,Murder,175
+2011,D.G.Khan Division,Murder,392
+2011,D.G.Khan,Murder,90
+2011,Layyah,Murder,49
+2011,Muzaffargarh,Murder,147
+2011,Rajanpur,Murder,106
+2011,Faisalabad Div.,Murder,1038
+2011,Faisalabad,Murder,625
+2011,Chiniot,Murder,140
+2011,Jhang,Murder,143
+2011,T.T.Singh,Murder,130
+2011,Gujranwala Div.,Murder,1064
+2011,Gujranwala,Murder,336
+2011,Gujrat,Murder,239
+2011,Hafizabad,Murder,116
+2011,Mandi Baha-ud-Din,Murder,111
+2011,Narowal,Murder,80
+2011,Sialkot,Murder,182
+2011,Lahore Division,Murder,1427
+2011,Kasur,Murder,273
+2011,Lahore,Murder,683
+2011,Nankana Sahib,Murder,104
+2011,Sheikhupura,Murder,367
+2011,Multan Division,Murder,563
+2011,Khanewal,Murder,181
+2011,Lodhran,Murder,67
+2011,Multan,Murder,145
+2011,Vehari,Murder,170
+2011,Rawalpindi Div.,Murder,625
+2011,Attock,Murder,123
+2011,Chakwal,Murder,82
+2011,Jhelum,Murder,72
+2011,Rawalpindi,Murder,348
+2011,Sahiwal Division,Murder,579
+2011,Sahiwal,Murder,215
+2011,Okara,Murder,241
+2011,Pakpattan,Murder,123
+2011,Sargodha Div.,Murder,502
+2011,Bhakkar,Murder,58
+2011,Khushab,Murder,65
+2011,Mianwali,Murder,129
+2011,Sargodha,Murder,250
+2012,PUNJAB,Murder,6312
+2012,Bahawalpur Div.,Murder,474
+2012,Bahawalnagar,Murder,159
+2012,Bahawalpur,Murder,151
+2012,Rahim Yar Khan,Murder,164
+2012,D.G.Khan Division,Murder,388
+2012,D.G.Khan,Murder,90
+2012,Layyah,Murder,45
+2012,Muzaffargarh,Murder,147
+2012,Rajanpur,Murder,106
+2012,Faisalabad Div.,Murder,1050
+2012,Faisalabad,Murder,615
+2012,Chiniot,Murder,137
+2012,Jhang,Murder,158
+2012,T.T.Singh,Murder,140
+2012,Gujranwala Div.,Murder,1003
+2012,Gujranwala,Murder,322
+2012,Gujrat,Murder,203
+2012,Hafizabad,Murder,87
+2012,Mandi Baha-ud-Din,Murder,110
+2012,Narowal,Murder,91
+2012,Sialkot,Murder,190
+2012,Lahore Division,Murder,1301
+2012,Kasur,Murder,669
+2012,Lahore,Murder,228
+2012,Nankana Sahib,Murder,94
+2012,Sheikhupura,Murder,310
+2012,Multan Division,Murder,563
+2012,Khanewal,Murder,166
+2012,Lodhran,Murder,185
+2012,Multan,Murder,66
+2012,Vehari,Murder,146
+2012,Rawalpindi Div.,Murder,516
+2012,Attock,Murder,106
+2012,Chakwal,Murder,71
+2012,Jhelum,Murder,61
+2012,Rawalpindi,Murder,278
+2012,Sahiwal Division,Murder,560
+2012,Sahiwal,Murder,175
+2012,Okara,Murder,260
+2012,Pakpattan,Murder,125
+2012,Sargodha Div.,Murder,457
+2012,Bhakkar,Murder,57
+2012,Khushab,Murder,64
+2012,Mianwali,Murder,123
+2012,Sargodha,Murder,213
+2013,PUNJAB,Murder,6095
+2013,Bahawalpur Div.,Murder,515
+2013,Bahawalnagar,Murder,167
+2013,Bahawalpur,Murder,148
+2013,Rahim Yar Khan,Murder,200
+2013,D.G.Khan Division,Murder,422
+2013,D.G.Khan,Murder,128
+2013,Layyah,Murder,47
+2013,Muzaffargarh,Murder,137
+2013,Rajanpur,Murder,110
+2013,Faisalabad Div.,Murder,893
+2013,Faisalabad,Murder,527
+2013,Chiniot,Murder,103
+2013,Jhang,Murder,123
+2013,T.T.Singh,Murder,140
+2013,Gujranwala Div.,Murder,1022
+2013,Gujranwala,Murder,314
+2013,Gujrat,Murder,221
+2013,Hafizabad,Murder,98
+2013,Mandi Baha-ud-Din,Murder,100
+2013,Narowal,Murder,74
+2013,Sialkot,Murder,215
+2013,Lahore Division,Murder,1164
+2013,Kasur,Murder,238
+2013,Lahore,Murder,569
+2013,Nankana Sahib,Murder,99
+2013,Sheikhupura,Murder,258
+2013,Multan Division,Murder,498
+2013,Khanewal,Murder,123
+2013,Lodhran,Murder,68
+2013,Multan,Murder,176
+2013,Vehari,Murder,131
+2013,Rawalpindi Div.,Murder,590
+2013,Attock,Murder,119
+2013,Chakwal,Murder,71
+2013,Jhelum,Murder,62
+2013,Rawalpindi,Murder,338
+2013,Sahiwal Division,Murder,513
+2013,Sahiwal,Murder,161
+2013,Okara,Murder,230
+2013,Pakpattan,Murder,122
+2013,Sargodha Div.,Murder,478
+2013,Bhakkar,Murder,49
+2013,Khushab,Murder,73
+2013,Mianwali,Murder,131
+2013,Sargodha,Murder,225
+2014,PUNJAB,Murder,6094
+2014,Bahawalpur Div.,Murder,485
+2014,Bahawalnagar,Murder,146
+2014,Bahawalpur,Murder,143
+2014,Rahim Yar Khan,Murder,196
+2014,D.G.Khan Division,Murder,425
+2014,D.G.Khan,Murder,122
+2014,Layyah,Murder,38
+2014,Muzaffargarh,Murder,163
+2014,Rajanpur,Murder,102
+2014,Faisalabad Div.,Murder,839
+2014,Faisalabad,Murder,479
+2014,Chiniot,Murder,114
+2014,Jhang,Murder,131
+2014,T.T.Singh,Murder,115
+2014,Gujranwala Div.,Murder,974
+2014,Gujranwala,Murder,307
+2014,Gujrat,Murder,183
+2014,Hafizabad,Murder,97
+2014,Mandi Baha-ud-Din,Murder,102
+2014,Narowal,Murder,66
+2014,Sialkot,Murder,219
+2014,Lahore Division,Murder,1178
+2014,Kasur,Murder,208
+2014,Lahore,Murder,584
+2014,Nankana Sahib,Murder,108
+2014,Sheikhupura,Murder,278
+2014,Multan Division,Murder,507
+2014,Khanewal,Murder,139
+2014,Lodhran,Murder,73
+2014,Multan,Murder,165
+2014,Vehari,Murder,130
+2014,Rawalpindi Div.,Murder,571
+2014,Attock,Murder,119
+2014,Chakwal,Murder,83
+2014,Jhelum,Murder,63
+2014,Rawalpindi,Murder,306
+2014,Sahiwal Division,Murder,556
+2014,Sahiwal,Murder,191
+2014,Okara,Murder,255
+2014,Pakpattan,Murder,110
+2014,Sargodha Div.,Murder,559
+2014,Bhakkar,Murder,58
+2014,Khushab,Murder,62
+2014,Mianwali,Murder,159
+2014,Sargodha,Murder,280
+2015,PUNJAB,Murder,4522
+2015,Bahawalpur Div.,Murder,341
+2015,Bahawalnagar,Murder,109
+2015,Bahawalpur,Murder,94
+2015,Rahim Yar Khan,Murder,138
+2015,D.G.Khan Division,Murder,358
+2015,D.G.Khan,Murder,86
+2015,Layyah,Murder,38
+2015,Muzaffargarh,Murder,127
+2015,Rajanpur,Murder,107
+2015,Faisalabad Div.,Murder,657
+2015,Faisalabad,Murder,384
+2015,Chiniot,Murder,75
+2015,Jhang,Murder,89
+2015,T.T.Singh,Murder,109
+2015,Gujranwala Div.,Murder,622
+2015,Gujranwala,Murder,193
+2015,Gujrat,Murder,119
+2015,Hafizabad,Murder,74
+2015,Mandi Baha-ud-Din,Murder,65
+2015,Narowal,Murder,46
+2015,Sialkot,Murder,125
+2015,Lahore Division,Murder,931
+2015,Kasur,Murder,171
+2015,Lahore,Murder,445
+2015,Nankana Sahib,Murder,86
+2015,Sheikhupura,Murder,229
+2015,Multan Division,Murder,388
+2015,Khanewal,Murder,99
+2015,Lodhran,Murder,56
+2015,Multan,Murder,95
+2015,Vehari,Murder,138
+2015,Rawalpindi Div.,Murder,452
+2015,Attock,Murder,94
+2015,Chakwal,Murder,58
+2015,Jhelum,Murder,32
+2015,Rawalpindi,Murder,268
+2015,Sahiwal Division,Murder,376
+2015,Sahiwal,Murder,129
+2015,Okara,Murder,168
+2015,Pakpattan,Murder,79
+2015,Sargodha Div.,Murder,397
+2015,Bhakkar,Murder,33
+2015,Khushab,Murder,57
+2015,Mianwali,Murder,110
+2015,Sargodha,Murder,197
+2016,PUNJAB,Murder,4112
+2016,Bahawalpur Div.,Murder,301
+2016,Bahawalnagar,Murder,85
+2016,Bahawalpur,Murder,103
+2016,Rahim Yar Khan,Murder,113
+2016,D.G.Khan Division,Murder,300
+2016,D.G.Khan,Murder,91
+2016,Layyah,Murder,26
+2016,Muzaffargarh,Murder,108
+2016,Rajanpur,Murder,75
+2016,Faisalabad Div.,Murder,589
+2016,Faisalabad,Murder,359
+2016,Chiniot,Murder,64
+2016,Jhang,Murder,82
+2016,T.T.Singh,Murder,84
+2016,Gujranwala Div.,Murder,615
+2016,Gujranwala,Murder,200
+2016,Gujrat,Murder,120
+2016,Hafizabad,Murder,54
+2016,Mandi Baha-ud-Din,Murder,77
+2016,Narowal,Murder,38
+2016,Sialkot,Murder,126
+2016,Lahore Division,Murder,845
+2016,Kasur,Murder,158
+2016,Lahore,Murder,439
+2016,Nankana Sahib,Murder,59
+2016,Sheikhupura,Murder,189
+2016,Multan Division,Murder,340
+2016,Khanewal,Murder,86
+2016,Lodhran,Murder,47
+2016,Multan,Murder,120
+2016,Vehari,Murder,87
+2016,Rawalpindi Div.,Murder,423
+2016,Attock,Murder,71
+2016,Chakwal,Murder,54
+2016,Jhelum,Murder,53
+2016,Rawalpindi,Murder,245
+2016,Sahiwal Division,Murder,337
+2016,Sahiwal,Murder,124
+2016,Okara,Murder,133
+2016,Pakpattan,Murder,80
+2016,Sargodha Div.,Murder,362
+2016,Bhakkar,Murder,38
+2016,Khushab,Murder,58
+2016,Mianwali,Murder,90
+2016,Sargodha,Murder,176
+2017,PUNJAB,Murder,3992
+2017,Bahawalpur Div.,Murder,266
+2017,Bahawalnagar,Murder,67
+2017,Bahawalpur,Murder,91
+2017,Rahim Yar Khan,Murder,108
+2017,D.G.Khan Division,Murder,304
+2017,D.G.Khan,Murder,85
+2017,Layyah,Murder,24
+2017,Muzaffargarh,Murder,127
+2017,Rajanpur,Murder,68
+2017,Faisalabad Div.,Murder,524
+2017,Faisalabad,Murder,325
+2017,Chiniot,Murder,59
+2017,Jhang,Murder,63
+2017,T.T.Singh,Murder,77
+2017,Gujranwala Div.,Murder,643
+2017,Gujranwala,Murder,235
+2017,Gujrat,Murder,119
+2017,Hafizabad,Murder,34
+2017,Mandi Baha-ud-Din,Murder,81
+2017,Narowal,Murder,133
+2017,Sialkot,Murder,41
+2017,Lahore Division,Murder,837
+2017,Kasur,Murder,141
+2017,Lahore,Murder,406
+2017,Nankana Sahib,Murder,66
+2017,Sheikhupura,Murder,224
+2017,Multan Division,Murder,334
+2017,Khanewal,Murder,87
+2017,Lodhran,Murder,45
+2017,Multan,Murder,122
+2017,Vehari,Murder,80
+2017,Rawalpindi Div.,Murder,460
+2017,Attock,Murder,104
+2017,Chakwal,Murder,62
+2017,Jhelum,Murder,45
+2017,Rawalpindi,Murder,249
+2017,Sahiwal Division,Murder,274
+2017,Sahiwal,Murder,96
+2017,Okara,Murder,120
+2017,Pakpattan,Murder,58
+2017,Sargodha Div.,Murder,350
+2017,Bhakkar,Murder,39
+2017,Khushab,Murder,48
+2017,Mianwali,Murder,83
+2017,Sargodha,Murder,180
+2018,PUNJAB,Murder,4146
+2018,Bahawalpur Div.,Murder,285
+2018,Bahawalnagar,Murder,80
+2018,Bahawalpur,Murder,77
+2018,Rahim Yar Khan,Murder,128
+2018,D.G.Khan Division,Murder,307
+2018,D.G.Khan,Murder,77
+2018,Layyah,Murder,36
+2018,Muzaffargarh,Murder,113
+2018,Rajanpur,Murder,81
+2018,Faisalabad Div.,Murder,525
+2018,Faisalabad,Murder,333
+2018,Chiniot,Murder,50
+2018,Jhang,Murder,69
+2018,T.T.Singh,Murder,73
+2018,Gujranwala Div.,Murder,660
+2018,Gujranwala,Murder,196
+2018,Gujrat,Murder,107
+2018,Hafizabad,Murder,58
+2018,Mandi Baha-ud-Din,Murder,104
+2018,Narowal,Murder,42
+2018,Sialkot,Murder,153
+2018,Lahore Division,Murder,896
+2018,Kasur,Murder,138
+2018,Lahore,Murder,493
+2018,Nankana Sahib,Murder,59
+2018,Sheikhupura,Murder,206
+2018,Multan Division,Murder,339
+2018,Khanewal,Murder,99
+2018,Lodhran,Murder,40
+2018,Multan,Murder,108
+2018,Vehari,Murder,92
+2018,Rawalpindi Div.,Murder,467
+2018,Attock,Murder,85
+2018,Chakwal,Murder,53
+2018,Jhelum,Murder,47
+2018,Rawalpindi,Murder,282
+2018,Sahiwal Division,Murder,302
+2018,Sahiwal,Murder,112
+2018,Okara,Murder,124
+2018,Pakpattan,Murder,66
+2018,Sargodha Div.,Murder,365
+2018,Bhakkar,Murder,42
+2018,Khushab,Murder,51
+2018,Mianwali,Murder,92
+2018,Sargodha,Murder,180
+2019,PUNJAB,Murder,4060
+2019,Bahawalpur Div.,Murder,248
+2019,Bahawalnagar,Murder,61
+2019,Bahawalpur,Murder,74
+2019,Rahim Yar Khan,Murder,113
+2019,D.G.Khan Division,Murder,285
+2019,D.G.Khan,Murder,88
+2019,Layyah,Murder,22
+2019,Muzaffargarh,Murder,100
+2019,Rajanpur,Murder,75
+2019,Faisalabad Div.,Murder,524
+2019,Faisalabad,Murder,318
+2019,Chiniot,Murder,48
+2019,Jhang,Murder,68
+2019,T.T.Singh,Murder,90
+2019,Gujranwala Div.,Murder,681
+2019,Gujranwala,Murder,203
+2019,Gujrat,Murder,121
+2019,Hafizabad,Murder,62
+2019,Mandi Baha-ud-Din,Murder,103
+2019,Narowal,Murder,36
+2019,Sialkot,Murder,156
+2019,Lahore Division,Murder,854
+2019,Kasur,Murder,143
+2019,Lahore,Murder,416
+2019,Nankana Sahib,Murder,77
+2019,Sheikhupura,Murder,218
+2019,Multan Division,Murder,331
+2019,Khanewal,Murder,95
+2019,Lodhran,Murder,38
+2019,Multan,Murder,109
+2019,Vehari,Murder,89
+2019,Rawalpindi Div.,Murder,498
+2019,Attock,Murder,95
+2019,Chakwal,Murder,64
+2019,Jhelum,Murder,47
+2019,Rawalpindi,Murder,292
+2019,Sahiwal Division,Murder,271
+2019,Sahiwal,Murder,92
+2019,Okara,Murder,109
+2019,Pakpattan,Murder,70
+2019,Sargodha Div.,Murder,368
+2019,Bhakkar,Murder,48
+2019,Khushab,Murder,39
+2019,Mianwali,Murder,81
+2019,Sargodha,Murder,200
+2020,PUNJAB,Murder,4268
+2020,Bahawalpur Div.,Murder,278
+2020,Bahawalnagar,Murder,71
+2020,Bahawalpur,Murder,82
+2020,Rahim Yar Khan,Murder,125
+2020,D.G.Khan Division,Murder,336
+2020,D.G.Khan,Murder,95
+2020,Layyah,Murder,32
+2020,Muzaffargarh,Murder,111
+2020,Rajanpur,Murder,98
+2020,Faisalabad Div.,Murder,523
+2020,Faisalabad,Murder,325
+2020,Chiniot,Murder,56
+2020,Jhang,Murder,66
+2020,T.T.Singh,Murder,76
+2020,Gujranwala Div.,Murder,730
+2020,Gujranwala,Murder,217
+2020,Gujrat,Murder,126
+2020,Hafizabad,Murder,60
+2020,Mandi Baha-ud-Din,Murder,111
+2020,Narowal,Murder,49
+2020,Sialkot,Murder,167
+2020,Lahore Division,Murder,882
+2020,Kasur,Murder,153
+2020,Lahore,Murder,439
+2020,Nankana Sahib,Murder,69
+2020,Sheikhupura,Murder,221
+2020,Multan Division,Murder,355
+2020,Khanewal,Murder,132
+2020,Lodhran,Murder,39
+2020,Multan,Murder,99
+2020,Vehari,Murder,85
+2020,Rawalpindi Div.,Murder,489
+2020,Attock,Murder,90
+2020,Chakwal,Murder,59
+2020,Jhelum,Murder,49
+2020,Rawalpindi,Murder,291
+2020,Sahiwal Division,Murder,276
+2020,Sahiwal,Murder,98
+2020,Okara,Murder,122
+2020,Pakpattan,Murder,56
+2020,Sargodha Div.,Murder,399
+2020,Bhakkar,Murder,49
+2020,Khushab,Murder,47
+2020,Mianwali,Murder,101
+2020,Sargodha,Murder,202

@@ -1,0 +1,855 @@
+district,Crime Type,year,Total Crime
+Abbottabad,MURDER,2012,73
+Abbottabad,MURDER,2013,67
+Abbottabad,MURDER,2014,68
+Abbottabad,MURDER,2015,60
+Abbottabad,MURDER,2016,63
+Abbottabad,MURDER,2017,56
+Abbottabad,MURDER,2018,52
+Abbottabad,MURDER,2020,69
+Abbottabad,Kidnapping Ransom,2012,16
+Abbottabad,Kidnapping Ransom,2013,36
+Abbottabad,Kidnapping Ransom,2014,45
+Abbottabad,Child Lifting,2012,55
+Abbottabad,Child Lifting,2013,43
+Abbottabad,Child Lifting,2014,4
+Abbottabad,Child Lifting,2015,2
+Abbottabad,Child Lifting,2017,33
+Abbottabad,Child Lifting,2018,4
+Abbottabad,Child Lifting,2022,5
+Abbottabad,Motor Car Theft,2012,10
+Abbottabad,Motor Car Theft,2013,9
+Abbottabad,Motor Car Theft,2014,4
+Abbottabad,Motor Car Theft,2015,5
+Abbottabad,Motor Car Theft,2016,8
+Abbottabad,Motor Car Theft,2017,5
+Abbottabad,Motor Car Theft,2018,7
+Abbottabad,Motor Car Theft,2020,8
+Abbottabad,Motor Car Theft,2022,19
+Abbottabad,Car Snatching,2012,33
+Abbottabad,Car Snatching,2013,11
+Abbottabad,Car Snatching,2014,22
+Abbottabad,Car Snatching,2017,2
+Abbottabad,Motor Cycle Theft,2012,3
+Abbottabad,Motor Cycle Theft,2013,7
+Abbottabad,Motor Cycle Theft,2014,4
+Abbottabad,Motor Cycle Theft,2015,4
+Abbottabad,Motor Cycle Theft,2016,11
+Abbottabad,Motor Cycle Theft,2017,10
+Abbottabad,Motor Cycle Theft,2018,19
+Abbottabad,Motor Cycle Theft,2020,21
+Abbottabad,Motor Cycle Theft,2022,49
+Bajaur,Motor Car Theft,2022,22
+Bajaur,Car Snatching,2022,24
+Bajaur,Motor Cycle Theft,2022,18
+Bannu,MURDER,2012,170
+Bannu,MURDER,2013,208
+Bannu,MURDER,2014,272
+Bannu,MURDER,2015,221
+Bannu,MURDER,2016,213
+Bannu,MURDER,2017,197
+Bannu,MURDER,2018,149
+Bannu,MURDER,2020,201
+Bannu,Kidnapping Ransom,2012,22
+Bannu,Kidnapping Ransom,2014,6
+Bannu,Kidnapping Ransom,2015,14
+Bannu,Kidnapping Ransom,2018,11
+Bannu,Kidnapping Ransom,2022,25
+Bannu,Child Lifting,2012,4
+Bannu,Child Lifting,2013,2
+Bannu,Child Lifting,2014,2
+Bannu,Child Lifting,2015,2
+Bannu,Child Lifting,2016,4
+Bannu,Child Lifting,2017,1
+Bannu,Child Lifting,2022,2
+Bannu,Motor Car Theft,2012,1
+Bannu,Motor Car Theft,2013,2
+Bannu,Motor Car Theft,2014,10
+Bannu,Motor Car Theft,2015,4
+Bannu,Motor Car Theft,2016,2
+Bannu,Motor Car Theft,2018,3
+Bannu,Motor Car Theft,2020,9
+Bannu,Motor Car Theft,2022,2
+Bannu,Car Snatching,2013,1
+Bannu,Car Snatching,2014,4
+Bannu,Car Snatching,2015,1
+Bannu,Car Snatching,2016,2
+Bannu,Car Snatching,2018,2
+Bannu,Car Snatching,2020,1
+Bannu,Car Snatching,2022,4
+Bannu,Motor Cycle Theft,2012,12
+Bannu,Motor Cycle Theft,2013,29
+Bannu,Motor Cycle Theft,2014,96
+Bannu,Motor Cycle Theft,2015,76
+Bannu,Motor Cycle Theft,2016,45
+Bannu,Motor Cycle Theft,2017,32
+Bannu,Motor Cycle Theft,2018,40
+Bannu,Motor Cycle Theft,2020,45
+Bannu,Motor Cycle Theft,2022,71
+Battagram,MURDER,2012,26
+Battagram,MURDER,2013,35
+Battagram,MURDER,2014,32
+Battagram,MURDER,2015,34
+Battagram,MURDER,2016,30
+Battagram,MURDER,2017,16
+Battagram,MURDER,2018,35
+Battagram,MURDER,2020,24
+Battagram,Kidnapping Ransom,2013,1
+Battagram,Child Lifting,2022,1
+Battagram,Motor Car Theft,2018,1
+Battagram,Motor Car Theft,2020,3
+Battagram,Motor Car Theft,2022,4
+Battagram,Car Snatching,2013,1
+Battagram,Car Snatching,2017,1
+Battagram,Motor Cycle Theft,2012,1
+Battagram,Motor Cycle Theft,2014,1
+Battagram,Motor Cycle Theft,2016,2
+Battagram,Motor Cycle Theft,2018,5
+Battagram,Motor Cycle Theft,2022,8
+Buner,MURDER,2012,47
+Buner,MURDER,2013,60
+Buner,MURDER,2014,58
+Buner,MURDER,2015,55
+Buner,MURDER,2016,50
+Buner,MURDER,2017,52
+Buner,MURDER,2018,48
+Buner,MURDER,2020,46
+Buner,Kidnapping Ransom,2016,1
+Buner,Motor Car Theft,2012,1
+Buner,Motor Car Theft,2013,1
+Buner,Motor Car Theft,2015,2
+Buner,Motor Car Theft,2018,10
+Buner,Motor Car Theft,2020,2
+Buner,Motor Car Theft,2022,1
+Buner,Car Snatching,2013,1
+Buner,Car Snatching,2015,1
+Buner,Motor Cycle Theft,2012,1
+Buner,Motor Cycle Theft,2013,5
+Buner,Motor Cycle Theft,2014,3
+Buner,Motor Cycle Theft,2015,4
+Buner,Motor Cycle Theft,2016,8
+Buner,Motor Cycle Theft,2017,2
+Buner,Motor Cycle Theft,2018,26
+Buner,Motor Cycle Theft,2020,18
+Buner,Motor Cycle Theft,2022,27
+Charsadda,MURDER,2012,234
+Charsadda,MURDER,2013,222
+Charsadda,MURDER,2014,250
+Charsadda,MURDER,2015,220
+Charsadda,MURDER,2016,192
+Charsadda,MURDER,2017,164
+Charsadda,MURDER,2018,167
+Charsadda,MURDER,2020,154
+Charsadda,Kidnapping Ransom,2012,4
+Charsadda,Kidnapping Ransom,2013,2
+Charsadda,Kidnapping Ransom,2014,6
+Charsadda,Kidnapping Ransom,2015,1
+Charsadda,Kidnapping Ransom,2016,1
+Charsadda,Kidnapping Ransom,2017,1
+Charsadda,Kidnapping Ransom,2022,3
+Charsadda,Child Lifting,2012,1
+Karak,Kidnapping Ransom,2016,1
+Karak,Kidnapping Ransom,2017,2
+Karak,Motor Car Theft,2013,2
+Karak,Motor Car Theft,2014,2
+Karak,Motor Car Theft,2015,1
+Karak,Motor Car Theft,2016,3
+Karak,Motor Car Theft,2018,1
+Karak,Motor Car Theft,2020,1
+Karak,Car Snatching,2012,3
+Karak,Car Snatching,2013,1
+Karak,Car Snatching,2014,3
+Karak,Car Snatching,2015,1
+Karak,Car Snatching,2018,4
+Karak,Car Snatching,2020,1
+Karak,Car Snatching,2022,2
+Karak,Motor Cycle Theft,2012,5
+Karak,Motor Cycle Theft,2013,9
+Karak,Motor Cycle Theft,2014,16
+Karak,Motor Cycle Theft,2015,18
+Karak,Motor Cycle Theft,2016,4
+Karak,Motor Cycle Theft,2017,14
+Karak,Motor Cycle Theft,2018,19
+Karak,Motor Cycle Theft,2020,12
+Karak,Motor Cycle Theft,2022,16
+Khyber,Child Lifting,2022,4
+Khyber,Motor Car Theft,2022,8
+Khyber,Car Snatching,2022,6
+Khyber,Motor Cycle Theft,2022,17
+Kohat,MURDER,2012,148
+Kohat,MURDER,2013,160
+Kohat,MURDER,2014,146
+Kohat,MURDER,2015,134
+Kohat,MURDER,2016,124
+Kohat,MURDER,2017,118
+Kohat,MURDER,2018,105
+Kohat,MURDER,2020,139
+Kohat,Kidnapping Ransom,2012,6
+Kohat,Kidnapping Ransom,2013,3
+Kohat,Kidnapping Ransom,2014,6
+Kohat,Kidnapping Ransom,2015,2
+Kohat,Kidnapping Ransom,2016,4
+Kohat,Kidnapping Ransom,2017,1
+Kohat,Kidnapping Ransom,2022,3
+Kohat,Child Lifting,2014,1
+Kohat,Child Lifting,2015,2
+Kohat,Child Lifting,2016,2
+Kohat,Child Lifting,2017,2
+Kohat,Child Lifting,2018,2
+Kohat,Child Lifting,2022,3
+Kohat,Motor Car Theft,2012,2
+Kohat,Motor Car Theft,2013,8
+Kohat,Motor Car Theft,2014,1
+Kohat,Motor Car Theft,2015,2
+Kohat,Motor Car Theft,2016,2
+Kohat,Motor Car Theft,2018,3
+Kohat,Motor Car Theft,2020,3
+Kohat,Motor Car Theft,2022,3
+Kohat,Car Snatching,2012,5
+Kohat,Car Snatching,2013,6
+Kohat,Car Snatching,2014,2
+Kohat,Car Snatching,2015,3
+Kohat,Car Snatching,2016,4
+Kohat,Car Snatching,2018,1
+Kohat,Car Snatching,2020,1
+Kohat,Car Snatching,2022,1
+Kohat,Motor Cycle Theft,2012,7
+Kohat,Motor Cycle Theft,2013,10
+Kohat,Motor Cycle Theft,2014,14
+Kohat,Motor Cycle Theft,2015,24
+Kohat,Motor Cycle Theft,2016,26
+Kohat,Motor Cycle Theft,2017,24
+Kohat,Motor Cycle Theft,2018,29
+Kohat,Motor Cycle Theft,2020,28
+Kohat,Motor Cycle Theft,2022,35
+Kohistan,MURDER,2012,37
+Kohistan,MURDER,2013,55
+Kohistan,MURDER,2014,34
+Kohistan,MURDER,2015,33
+Kohistan,MURDER,2016,37
+Kohistan,MURDER,2017,37
+Kohistan,MURDER,2018,48
+Kohistan,MURDER,2020,34
+Kohistan,Child Lifting,2017,1
+Kohistan,Motor Car Theft,2012,1
+Kohistan,Motor Car Theft,2014,1
+Kohistan,Motor Car Theft,2016,1
+Kohistan,Motor Cycle Theft,2012,1
+Kohistan,Motor Cycle Theft,2014,3
+Kohistan,Motor Cycle Theft,2016,3
+Kohistan,Motor Cycle Theft,2017,3
+Kohistan,Motor Cycle Theft,2018,4
+Kohistan,Motor Cycle Theft,2020,1
+Kohistan Kolai Palas,Motor Cycle Theft,2022,3
+Kohistan Lower,Motor Cycle Theft,2022,1
+Kurram,Motor Car Theft,2022,6
+Kurram,Car Snatching,2022,1
+Kurram,Motor Cycle Theft,2022,6
+Lakki Marwat,MURDER,2012,109
+Lakki Marwat,MURDER,2013,127
+Lakki Marwat,MURDER,2014,164
+Lakki Marwat,MURDER,2015,150
+Lakki Marwat,MURDER,2016,153
+Lakki Marwat,MURDER,2017,146
+Lakki Marwat,MURDER,2018,148
+Lakki Marwat,MURDER,2020,144
+Lakki Marwat,Kidnapping Ransom,2013,1
+Lakki Marwat,Child Lifting,2012,1
+Lakki Marwat,Child Lifting,2013,3
+Lakki Marwat,Child Lifting,2014,3
+Lakki Marwat,Child Lifting,2015,1
+Lakki Marwat,Child Lifting,2016,2
+Lakki Marwat,Child Lifting,2017,1
+Lakki Marwat,Child Lifting,2018,2
+Lakki Marwat,Child Lifting,2020,1
+Lakki Marwat,Child Lifting,2022,1
+Lakki Marwat,Motor Car Theft,2015,2
+Lakki Marwat,Motor Car Theft,2016,1
+Lakki Marwat,Motor Car Theft,2018,3
+Lakki Marwat,Motor Car Theft,2020,4
+Lakki Marwat,Motor Car Theft,2022,4
+Lakki Marwat,Car Snatching,2012,4
+Lakki Marwat,Car Snatching,2014,2
+Lakki Marwat,Car Snatching,2015,2
+Lakki Marwat,Car Snatching,2016,1
+Lakki Marwat,Motor Cycle Theft,2012,7
+Lakki Marwat,Motor Cycle Theft,2013,4
+Lakki Marwat,Motor Cycle Theft,2014,14
+Lakki Marwat,Motor Cycle Theft,2015,23
+Lakki Marwat,Motor Cycle Theft,2016,7
+Lakki Marwat,Motor Cycle Theft,2017,8
+Lakki Marwat,Motor Cycle Theft,2018,16
+Lakki Marwat,Motor Cycle Theft,2020,14
+Lakki Marwat,Motor Cycle Theft,2022,11
+Mansehra,MURDER,2012,88
+Mansehra,MURDER,2013,135
+Mansehra,MURDER,2014,119
+Mansehra,MURDER,2015,95
+Mansehra,MURDER,2016,91
+Mansehra,MURDER,2017,76
+Mansehra,MURDER,2018,96
+Mansehra,MURDER,2020,89
+Mansehra,Kidnapping Ransom,2012,2
+Mansehra,Kidnapping Ransom,2013,1
+Mansehra,Kidnapping Ransom,2014,1
+Mansehra,Kidnapping Ransom,2015,1
+Mansehra,Child Lifting,2014,2
+Mansehra,Child Lifting,2015,1
+Mansehra,Child Lifting,2016,4
+Mansehra,Child Lifting,2017,4
+Mansehra,Child Lifting,2018,6
+Mansehra,Child Lifting,2022,7
+Mansehra,Motor Car Theft,2012,5
+Mansehra,Motor Car Theft,2013,10
+Mansehra,Motor Car Theft,2014,7
+Mansehra,Motor Car Theft,2015,5
+Mansehra,Motor Car Theft,2016,16
+Mansehra,Motor Car Theft,2017,8
+Mansehra,Motor Car Theft,2018,9
+Mansehra,Motor Car Theft,2020,13
+Mansehra,Motor Car Theft,2022,18
+Mansehra,Car Snatching,2012,2
+Mansehra,Car Snatching,2013,3
+Mansehra,Car Snatching,2014,1
+Mansehra,Car Snatching,2015,1
+Mansehra,Motor Cycle Theft,2012,2
+Mansehra,Motor Cycle Theft,2013,2
+Mansehra,Motor Cycle Theft,2014,1
+Mansehra,Motor Cycle Theft,2015,9
+Mansehra,Motor Cycle Theft,2016,17
+Mansehra,Motor Cycle Theft,2017,11
+Mansehra,Motor Cycle Theft,2018,6
+Mansehra,Motor Cycle Theft,2020,15
+Mansehra,Motor Cycle Theft,2022,35
+Mardan,MURDER,2012,326
+Mardan,MURDER,2013,332
+Mardan,MURDER,2014,327
+Mardan,MURDER,2015,236
+Mardan,MURDER,2016,223
+Mardan,MURDER,2017,226
+Mardan,MURDER,2018,232
+Mardan,MURDER,2020,188
+Mardan,Kidnapping Ransom,2012,7
+Mardan,Kidnapping Ransom,2013,6
+Mardan,Kidnapping Ransom,2014,6
+Mardan,Kidnapping Ransom,2015,4
+Mardan,Kidnapping Ransom,2016,2
+Mardan,Kidnapping Ransom,2017,1
+Mardan,Kidnapping Ransom,2022,1
+Mardan,Child Lifting,2012,1
+Mardan,Child Lifting,2013,3
+Mardan,Child Lifting,2014,3
+Mardan,Child Lifting,2015,5
+Mardan,Child Lifting,2016,2
+Mardan,Child Lifting,2017,4
+Mardan,Child Lifting,2018,4
+Mardan,Child Lifting,2022,8
+Mardan,Motor Car Theft,2012,21
+Mardan,Motor Car Theft,2013,31
+Mardan,Motor Car Theft,2014,29
+Mardan,Motor Car Theft,2015,37
+Mardan,Motor Car Theft,2016,22
+Mardan,Motor Car Theft,2017,17
+Mardan,Motor Car Theft,2018,15
+Mardan,Motor Car Theft,2020,21
+Mardan,Motor Car Theft,2022,17
+Mardan,Car Snatching,2012,9
+Mardan,Car Snatching,2013,8
+Mardan,Car Snatching,2014,5
+Mardan,Car Snatching,2015,6
+Mardan,Car Snatching,2016,6
+Mardan,Car Snatching,2017,7
+Mardan,Car Snatching,2018,1
+Mardan,Car Snatching,2020,2
+Mardan,Motor Cycle Theft,2012,15
+Mardan,Motor Cycle Theft,2013,27
+Mardan,Motor Cycle Theft,2014,32
+Mardan,Motor Cycle Theft,2015,98
+Mardan,Motor Cycle Theft,2016,64
+Mardan,Motor Cycle Theft,2017,43
+Mardan,Motor Cycle Theft,2018,70
+Mardan,Motor Cycle Theft,2020,37
+Mardan,Motor Cycle Theft,2022,90
+Mohmand,Motor Car Theft,2022,1
+Mohmand,Motor Cycle Theft,2022,2
+North Waziristan,Kidnapping Ransom,2022,2
+North Waziristan,Motor Car Theft,2022,4
+North Waziristan,Motor Cycle Theft,2022,7
+Tank,Motor Car Theft,2018,1
+Tank,Car Snatching,2014,1
+Tank,Car Snatching,2017,1
+Tank,Car Snatching,2022,1
+Tank,Motor Cycle Theft,2012,1
+Tank,Motor Cycle Theft,2013,5
+Tank,Motor Cycle Theft,2014,2
+Tank,Motor Cycle Theft,2015,5
+Tank,Motor Cycle Theft,2016,14
+Tank,Motor Cycle Theft,2017,4
+Tank,Motor Cycle Theft,2018,8
+Tank,Motor Cycle Theft,2022,18
+Torghar,MURDER,2012,14
+Torghar,MURDER,2013,13
+Torghar,MURDER,2014,7
+Torghar,MURDER,2015,6
+Torghar,MURDER,2016,3
+Torghar,MURDER,2017,5
+Torghar,MURDER,2018,7
+Torghar,MURDER,2020,7
+Charsadda,Child Lifting,2013,2
+Charsadda,Child Lifting,2014,5
+Charsadda,Child Lifting,2015,4
+Charsadda,Child Lifting,2017,1
+Charsadda,Child Lifting,2018,2
+Charsadda,Child Lifting,2022,5
+Charsadda,Motor Car Theft,2012,14
+Charsadda,Motor Car Theft,2013,10
+Charsadda,Motor Car Theft,2014,6
+Charsadda,Motor Car Theft,2015,14
+Charsadda,Motor Car Theft,2016,14
+Charsadda,Motor Car Theft,2017,7
+Charsadda,Motor Car Theft,2018,4
+Charsadda,Motor Car Theft,2020,11
+Charsadda,Motor Car Theft,2022,7
+Charsadda,Car Snatching,2012,3
+Charsadda,Car Snatching,2013,6
+Charsadda,Car Snatching,2014,3
+Charsadda,Car Snatching,2015,10
+Charsadda,Car Snatching,2016,3
+Charsadda,Car Snatching,2017,1
+Charsadda,Car Snatching,2018,5
+Charsadda,Car Snatching,2020,3
+Charsadda,Car Snatching,2022,1
+Charsadda,Motor Cycle Theft,2012,8
+Charsadda,Motor Cycle Theft,2013,15
+Charsadda,Motor Cycle Theft,2014,11
+Charsadda,Motor Cycle Theft,2015,12
+Charsadda,Motor Cycle Theft,2016,31
+Charsadda,Motor Cycle Theft,2017,22
+Charsadda,Motor Cycle Theft,2018,17
+Charsadda,Motor Cycle Theft,2020,36
+Charsadda,Motor Cycle Theft,2022,50
+Chitral,MURDER,2012,15
+Chitral,MURDER,2013,11
+Chitral,MURDER,2014,12
+Chitral,MURDER,2015,7
+Chitral,MURDER,2016,7
+Chitral,MURDER,2017,8
+Chitral,MURDER,2018,7
+Chitral,MURDER,2020,14
+Chitral,Motor Car Theft,2012,2
+Chitral,Motor Car Theft,2015,1
+Chitral,Motor Car Theft,2017,1
+Chitral,Motor Car Theft,2018,2
+Chitral,Motor Car Theft,2020,2
+Chitral,Motor Cycle Theft,2012,2
+Chitral,Motor Cycle Theft,2014,7
+Chitral,Motor Cycle Theft,2015,3
+Chitral,Motor Cycle Theft,2016,6
+Chitral,Motor Cycle Theft,2017,5
+Chitral,Motor Cycle Theft,2018,5
+Chitral,Motor Cycle Theft,2020,2
+Chitral Lower,Motor Car Theft,2022,2
+Chitral Lower,Motor Cycle Theft,2022,4
+Chitral Upper,Motor Car Theft,2022,1
+Chitral Upper,Motor Cycle Theft,2022,2
+D.I.Khan,MURDER,2012,126
+D.I.Khan,MURDER,2013,113
+D.I.Khan,MURDER,2014,134
+D.I.Khan,MURDER,2015,100
+D.I.Khan,MURDER,2016,95
+D.I.Khan,MURDER,2017,94
+D.I.Khan,MURDER,2018,88
+D.I.Khan,MURDER,2020,111
+D.I.Khan,Kidnapping Ransom,2013,3
+D.I.Khan,Kidnapping Ransom,2014,1
+D.I.Khan,Kidnapping Ransom,2015,2
+D.I.Khan,Kidnapping Ransom,2022,2
+D.I.Khan,Child Lifting,2013,1
+D.I.Khan,Child Lifting,2014,1
+D.I.Khan,Child Lifting,2015,7
+D.I.Khan,Child Lifting,2016,2
+D.I.Khan,Child Lifting,2017,2
+D.I.Khan,Child Lifting,2018,6
+D.I.Khan,Child Lifting,2020,1
+D.I.Khan,Child Lifting,2022,16
+D.I.Khan,Motor Car Theft,2012,1
+D.I.Khan,Motor Car Theft,2013,1
+D.I.Khan,Motor Car Theft,2014,1
+D.I.Khan,Motor Car Theft,2017,2
+D.I.Khan,Motor Car Theft,2018,2
+D.I.Khan,Motor Car Theft,2020,6
+D.I.Khan,Motor Car Theft,2022,7
+D.I.Khan,Car Snatching,2012,1
+D.I.Khan,Car Snatching,2013,3
+D.I.Khan,Car Snatching,2014,2
+D.I.Khan,Car Snatching,2022,3
+D.I.Khan,Motor Cycle Theft,2012,42
+D.I.Khan,Motor Cycle Theft,2013,40
+D.I.Khan,Motor Cycle Theft,2014,35
+D.I.Khan,Motor Cycle Theft,2015,18
+D.I.Khan,Motor Cycle Theft,2016,26
+D.I.Khan,Motor Cycle Theft,2017,18
+D.I.Khan,Motor Cycle Theft,2018,37
+D.I.Khan,Motor Cycle Theft,2020,55
+D.I.Khan,Motor Cycle Theft,2022,254
+Dir Lower,MURDER,2012,50
+Dir Lower,MURDER,2013,57
+Dir Lower,MURDER,2014,60
+Dir Lower,MURDER,2015,42
+Dir Lower,MURDER,2016,61
+Dir Lower,MURDER,2017,56
+Dir Lower,MURDER,2018,48
+Dir Lower,MURDER,2020,39
+Dir Lower,Kidnapping Ransom,2013,1
+Dir Lower,Kidnapping Ransom,2014,2
+Dir Lower,Child Lifting,2013,2
+Dir Lower,Child Lifting,2015,2
+Dir Lower,Child Lifting,2016,1
+Dir Lower,Child Lifting,2017,1
+Dir Lower,Motor Car Theft,2013,6
+Dir Lower,Motor Car Theft,2014,7
+Dir Lower,Motor Car Theft,2015,7
+Dir Lower,Motor Car Theft,2016,7
+Dir Lower,Motor Car Theft,2017,6
+Dir Lower,Motor Car Theft,2018,10
+Dir Lower,Motor Car Theft,2020,6
+Dir Lower,Motor Car Theft,2022,10
+Dir Lower,Car Snatching,2013,1
+Dir Lower,Car Snatching,2016,1
+Dir Lower,Car Snatching,2018,1
+Dir Lower,Motor Cycle Theft,2012,4
+Dir Lower,Motor Cycle Theft,2013,2
+Dir Lower,Motor Cycle Theft,2014,8
+Dir Lower,Motor Cycle Theft,2015,10
+Dir Lower,Motor Cycle Theft,2016,8
+Dir Lower,Motor Cycle Theft,2017,8
+Dir Lower,Motor Cycle Theft,2018,9
+Dir Lower,Motor Cycle Theft,2020,9
+Dir Lower,Motor Cycle Theft,2022,18
+Dir Upper,MURDER,2012,87
+Dir Upper,MURDER,2013,64
+Dir Upper,MURDER,2014,76
+Dir Upper,MURDER,2015,69
+Dir Upper,MURDER,2016,56
+Dir Upper,MURDER,2017,45
+Dir Upper,MURDER,2018,49
+Dir Upper,MURDER,2020,49
+Dir Upper,Kidnapping Ransom,2015,1
+Dir Upper,Child Lifting,2012,1
+Dir Upper,Child Lifting,2014,1
+Dir Upper,Child Lifting,2018,2
+Dir Upper,Motor Car Theft,2012,1
+Dir Upper,Motor Car Theft,2014,2
+Dir Upper,Motor Car Theft,2015,4
+Dir Upper,Motor Car Theft,2016,5
+Dir Upper,Motor Car Theft,2017,3
+Dir Upper,Motor Car Theft,2018,12
+Dir Upper,Motor Car Theft,2020,5
+Dir Upper,Motor Cycle Theft,2016,2
+Dir Upper,Motor Cycle Theft,2017,4
+Dir Upper,Motor Cycle Theft,2018,3
+Dir Upper,Motor Cycle Theft,2020,9
+Dir Upper,Motor Cycle Theft,2022,10
+Hangu,MURDER,2012,119
+Hangu,MURDER,2013,121
+Hangu,MURDER,2014,66
+Hangu,MURDER,2015,44
+Hangu,MURDER,2016,63
+Hangu,MURDER,2017,53
+Hangu,MURDER,2018,55
+Hangu,MURDER,2020,54
+Hangu,Kidnapping Ransom,2012,1
+Hangu,Kidnapping Ransom,2013,6
+Hangu,Kidnapping Ransom,2014,1
+Hangu,Kidnapping Ransom,2015,4
+Hangu,Kidnapping Ransom,2016,2
+Hangu,Kidnapping Ransom,2017,1
+Hangu,Child Lifting,2012,1
+Hangu,Child Lifting,2015,1
+Hangu,Car Snatching,2012,1
+Hangu,Car Snatching,2016,1
+Hangu,Motor Cycle Theft,2012,1
+Hangu,Motor Cycle Theft,2013,1
+Hangu,Motor Cycle Theft,2014,2
+Hangu,Motor Cycle Theft,2016,1
+Hangu,Motor Cycle Theft,2017,5
+Hangu,Motor Cycle Theft,2018,1
+Hangu,Motor Cycle Theft,2020,2
+Hangu,Motor Cycle Theft,2022,8
+Haripur,MURDER,2012,83
+Haripur,MURDER,2013,75
+Haripur,MURDER,2014,54
+Haripur,MURDER,2015,55
+Haripur,MURDER,2016,51
+Haripur,MURDER,2017,44
+Haripur,MURDER,2018,50
+Haripur,MURDER,2020,61
+Haripur,Kidnapping Ransom,2014,1
+Haripur,Kidnapping Ransom,2016,1
+Haripur,Kidnapping Ransom,2018,1
+Haripur,Kidnapping Ransom,2022,1
+Haripur,Child Lifting,2012,1
+Haripur,Child Lifting,2014,1
+Haripur,Child Lifting,2015,1
+Haripur,Child Lifting,2018,1
+Haripur,Child Lifting,2022,2
+Haripur,Motor Car Theft,2012,6
+Haripur,Motor Car Theft,2013,1
+Haripur,Motor Car Theft,2014,2
+Haripur,Motor Car Theft,2015,3
+Haripur,Motor Car Theft,2016,6
+Haripur,Motor Car Theft,2017,11
+Haripur,Motor Car Theft,2018,5
+Haripur,Motor Car Theft,2020,10
+Haripur,Motor Car Theft,2022,14
+Haripur,Car Snatching,2013,3
+Haripur,Motor Cycle Theft,2012,3
+Haripur,Motor Cycle Theft,2013,3
+Haripur,Motor Cycle Theft,2014,8
+Haripur,Motor Cycle Theft,2015,6
+Haripur,Motor Cycle Theft,2016,16
+Haripur,Motor Cycle Theft,2017,13
+Haripur,Motor Cycle Theft,2018,15
+Haripur,Motor Cycle Theft,2020,19
+Haripur,Motor Cycle Theft,2022,59
+Karak,MURDER,2012,70
+Karak,MURDER,2013,92
+Karak,MURDER,2014,82
+Karak,MURDER,2015,88
+Karak,MURDER,2016,78
+Karak,MURDER,2017,97
+Karak,MURDER,2018,94
+Karak,MURDER,2020,94
+Karak,Kidnapping Ransom,2013,3
+Karak,Kidnapping Ransom,2014,1
+Karak,Kidnapping Ransom,2015,1
+Nowshera,MURDER,2012,187
+Nowshera,MURDER,2013,210
+Nowshera,MURDER,2014,208
+Nowshera,MURDER,2015,144
+Nowshera,MURDER,2016,154
+Nowshera,MURDER,2017,145
+Nowshera,MURDER,2018,131
+Nowshera,MURDER,2020,153
+Nowshera,Kidnapping Ransom,2012,3
+Nowshera,Kidnapping Ransom,2013,3
+Nowshera,Kidnapping Ransom,2014,4
+Nowshera,Kidnapping Ransom,2015,3
+Nowshera,Kidnapping Ransom,2016,1
+Nowshera,Kidnapping Ransom,2017,1
+Nowshera,Kidnapping Ransom,2018,1
+Nowshera,Child Lifting,2012,1
+Nowshera,Child Lifting,2013,1
+Nowshera,Child Lifting,2014,1
+Nowshera,Child Lifting,2015,2
+Nowshera,Child Lifting,2016,1
+Nowshera,Child Lifting,2017,2
+Nowshera,Child Lifting,2018,3
+Nowshera,Child Lifting,2020,1
+Nowshera,Child Lifting,2022,25
+Nowshera,Motor Car Theft,2012,4
+Nowshera,Motor Car Theft,2013,11
+Nowshera,Motor Car Theft,2014,19
+Nowshera,Motor Car Theft,2015,9
+Nowshera,Motor Car Theft,2016,12
+Nowshera,Motor Car Theft,2017,16
+Nowshera,Motor Car Theft,2018,6
+Nowshera,Motor Car Theft,2020,15
+Nowshera,Motor Car Theft,2022,21
+Nowshera,Car Snatching,2012,3
+Nowshera,Car Snatching,2013,8
+Nowshera,Car Snatching,2014,7
+Nowshera,Car Snatching,2015,10
+Nowshera,Car Snatching,2016,4
+Nowshera,Car Snatching,2017,4
+Nowshera,Car Snatching,2018,7
+Nowshera,Car Snatching,2020,3
+Nowshera,Car Snatching,2022,3
+Nowshera,Motor Cycle Theft,2012,9
+Nowshera,Motor Cycle Theft,2013,4
+Nowshera,Motor Cycle Theft,2014,5
+Nowshera,Motor Cycle Theft,2015,18
+Nowshera,Motor Cycle Theft,2016,10
+Nowshera,Motor Cycle Theft,2017,25
+Nowshera,Motor Cycle Theft,2018,56
+Nowshera,Motor Cycle Theft,2020,36
+Nowshera,Motor Cycle Theft,2022,74
+Peshawar,MURDER,2012,601
+Peshawar,MURDER,2013,623
+Peshawar,MURDER,2014,643
+Peshawar,MURDER,2015,427
+Peshawar,MURDER,2016,453
+Peshawar,MURDER,2017,404
+Peshawar,MURDER,2018,387
+Peshawar,MURDER,2020,381
+Peshawar,Kidnapping Ransom,2012,35
+Peshawar,Kidnapping Ransom,2013,56
+Peshawar,Kidnapping Ransom,2014,69
+Peshawar,Kidnapping Ransom,2015,28
+Peshawar,Kidnapping Ransom,2016,8
+Peshawar,Kidnapping Ransom,2017,12
+Peshawar,Kidnapping Ransom,2018,4
+Peshawar,Kidnapping Ransom,2022,10
+Peshawar,Child Lifting,2012,7
+Peshawar,Child Lifting,2013,6
+Peshawar,Child Lifting,2014,3
+Peshawar,Child Lifting,2015,6
+Peshawar,Child Lifting,2016,3
+Peshawar,Child Lifting,2017,3
+Peshawar,Child Lifting,2018,5
+Peshawar,Child Lifting,2020,7
+Peshawar,Child Lifting,2022,20
+Peshawar,Motor Car Theft,2012,89
+Peshawar,Motor Car Theft,2013,152
+Peshawar,Motor Car Theft,2014,160
+Peshawar,Motor Car Theft,2015,106
+Peshawar,Motor Car Theft,2016,101
+Peshawar,Motor Car Theft,2017,78
+Peshawar,Motor Car Theft,2018,53
+Peshawar,Motor Car Theft,2020,108
+Peshawar,Motor Car Theft,2022,139
+Peshawar,Car Snatching,2012,26
+Peshawar,Car Snatching,2013,30
+Peshawar,Car Snatching,2014,28
+Peshawar,Car Snatching,2015,17
+Peshawar,Car Snatching,2016,16
+Peshawar,Car Snatching,2017,10
+Peshawar,Car Snatching,2018,8
+Peshawar,Car Snatching,2020,10
+Peshawar,Car Snatching,2022,7
+Peshawar,Motor Cycle Theft,2012,81
+Peshawar,Motor Cycle Theft,2013,113
+Peshawar,Motor Cycle Theft,2014,154
+Peshawar,Motor Cycle Theft,2015,173
+Peshawar,Motor Cycle Theft,2016,93
+Peshawar,Motor Cycle Theft,2017,115
+Peshawar,Motor Cycle Theft,2018,121
+Peshawar,Motor Cycle Theft,2020,159
+Peshawar,Motor Cycle Theft,2022,367
+Shangla,MURDER,2012,22
+Shangla,MURDER,2013,32
+Shangla,MURDER,2014,31
+Shangla,MURDER,2015,28
+Shangla,MURDER,2016,27
+Shangla,MURDER,2017,34
+Shangla,MURDER,2018,30
+Shangla,MURDER,2020,23
+Shangla,Child Lifting,2017,1
+Shangla,Child Lifting,2018,1
+Shangla,Motor Car Theft,2014,1
+Shangla,Motor Car Theft,2016,4
+Shangla,Motor Car Theft,2018,9
+Shangla,Motor Car Theft,2020,2
+Shangla,Motor Car Theft,2022,1
+Shangla,Car Snatching,2022,1
+Shangla,Motor Cycle Theft,2013,2
+Shangla,Motor Cycle Theft,2016,1
+Shangla,Motor Cycle Theft,2017,1
+Shangla,Motor Cycle Theft,2018,1
+Shangla,Motor Cycle Theft,2020,44
+Shangla,Motor Cycle Theft,2022,3
+South Waziristan,Motor Car Theft,2022,1
+South Waziristan,Motor Cycle Theft,2022,9
+Swabi,MURDER,2012,209
+Swabi,MURDER,2013,247
+Swabi,MURDER,2014,228
+Swabi,MURDER,2015,175
+Swabi,MURDER,2016,176
+Swabi,MURDER,2017,172
+Swabi,MURDER,2018,204
+Swabi,MURDER,2020,168
+Swabi,Kidnapping Ransom,2012,2
+Swabi,Kidnapping Ransom,2013,1
+Swabi,Kidnapping Ransom,2014,4
+Swabi,Kidnapping Ransom,2017,1
+Swabi,Kidnapping Ransom,2022,1
+Swabi,Child Lifting,2012,2
+Swabi,Child Lifting,2013,1
+Swabi,Child Lifting,2014,1
+Swabi,Child Lifting,2015,3
+Swabi,Child Lifting,2016,4
+Swabi,Child Lifting,2017,4
+Swabi,Child Lifting,2018,3
+Swabi,Child Lifting,2022,2
+Swabi,Motor Car Theft,2012,3
+Swabi,Motor Car Theft,2013,2
+Swabi,Motor Car Theft,2014,2
+Swabi,Motor Car Theft,2015,4
+Swabi,Motor Car Theft,2016,7
+Swabi,Motor Car Theft,2017,3
+Swabi,Motor Car Theft,2018,7
+Swabi,Motor Car Theft,2020,11
+Swabi,Motor Car Theft,2022,5
+Swabi,Car Snatching,2012,5
+Swabi,Car Snatching,2013,2
+Swabi,Car Snatching,2014,4
+Swabi,Car Snatching,2015,3
+Swabi,Car Snatching,2016,3
+Swabi,Car Snatching,2018,2
+Swabi,Car Snatching,2020,2
+Swabi,Car Snatching,2022,2
+Swabi,Motor Cycle Theft,2012,3
+Swabi,Motor Cycle Theft,2013,6
+Swabi,Motor Cycle Theft,2014,11
+Swabi,Motor Cycle Theft,2015,48
+Swabi,Motor Cycle Theft,2016,31
+Swabi,Motor Cycle Theft,2017,35
+Swabi,Motor Cycle Theft,2018,40
+Swabi,Motor Cycle Theft,2020,27
+Swabi,Motor Cycle Theft,2022,74
+Swat,MURDER,2012,99
+Swat,MURDER,2013,107
+Swat,MURDER,2014,105
+Swat,MURDER,2015,64
+Swat,MURDER,2016,102
+Swat,MURDER,2017,100
+Swat,MURDER,2018,91
+Swat,MURDER,2020,120
+Swat,Kidnapping Ransom,2013,1
+Swat,Kidnapping Ransom,2015,2
+Swat,Kidnapping Ransom,2016,1
+Swat,Kidnapping Ransom,2022,3
+Swat,Child Lifting,2013,1
+Swat,Child Lifting,2014,4
+Swat,Child Lifting,2016,2
+Swat,Child Lifting,2017,2
+Swat,Child Lifting,2018,1
+Swat,Child Lifting,2022,3
+Swat,Motor Car Theft,2012,4
+Swat,Motor Car Theft,2013,9
+Swat,Motor Car Theft,2014,9
+Swat,Motor Car Theft,2015,13
+Swat,Motor Car Theft,2016,18
+Swat,Motor Car Theft,2017,15
+Swat,Motor Car Theft,2018,34
+Swat,Motor Car Theft,2020,11
+Swat,Motor Car Theft,2022,30
+Swat,Car Snatching,2012,2
+Swat,Car Snatching,2013,2
+Swat,Car Snatching,2014,3
+Swat,Car Snatching,2016,1
+Swat,Car Snatching,2022,1
+Swat,Motor Cycle Theft,2012,10
+Swat,Motor Cycle Theft,2013,12
+Swat,Motor Cycle Theft,2014,8
+Swat,Motor Cycle Theft,2015,4
+Swat,Motor Cycle Theft,2016,25
+Swat,Motor Cycle Theft,2017,13
+Swat,Motor Cycle Theft,2018,15
+Swat,Motor Cycle Theft,2020,13
+Swat,Motor Cycle Theft,2022,68
+Tank,MURDER,2012,42
+Tank,MURDER,2013,74
+Tank,MURDER,2014,78
+Tank,MURDER,2015,55
+Tank,MURDER,2016,48
+Tank,MURDER,2017,57
+Tank,MURDER,2018,62
+Tank,MURDER,2020,58
+Tank,Kidnapping Ransom,2013,2
+Tank,Kidnapping Ransom,2014,1
+Tank,Kidnapping Ransom,2022,1
+Tank,Child Lifting,2014,1
+Tank,Child Lifting,2018,1
+Tank,Child Lifting,2022,2
+Tank,Motor Car Theft,2017,1
